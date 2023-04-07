@@ -13,12 +13,10 @@
 
 ## the Libre-Halaal ByStar Digital Ecosystem
 
-<br/><br/> 
+<br/>
+<big PLPC-120033>
 
-# PLPC-120033
-
-<br/><br/> 
-
+<br/>
 <a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
 
 <br/><br/> 
