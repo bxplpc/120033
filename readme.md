@@ -9,18 +9,19 @@
 
 ## The Western Intellectual Property Rights Regime
 
-## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+## And Introduction of
 
 ## the Libre-Halaal ByStar Digital Ecosystem
 
+<br/><br/> 
 
 # PLPC-120033
 
+<br/><br/> 
 
-<a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Printed Books At Amazon]
+<a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
 
- 
- 
+<br/><br/> 
 <table>
 <tbody>
 <tr class="odd">
