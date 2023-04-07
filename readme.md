@@ -1,14 +1,13 @@
 ------------------------------------------------------------------------
 
-<img align="right"  height="400" src="./images/frontCover-1.jpg">
+<img align="right"  height="500" src="./images/frontCover-1.jpg">
 
-Some Text comes here.
+PLPC-120033
 
 ### The Nature of Poly-Existentials:
 
-### Basis for Abolishment of
+### Basis for Abolishment of The Western Intellectual Property Rights Regime
 
-### The Western Intellectual Property Rights Regime
 
 <table>
 <tbody>
