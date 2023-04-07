@@ -4,18 +4,23 @@
 
 # The Nature of Poly-Existentials:
 
+
 ## Basis for Abolishment of 
 
 ## The Western Intellectual Property Rights Regime
 
-#### And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+
+## the Libre-Halaal ByStar Digital Ecosystem
 
 
-## PLPC-120033
+# PLPC-120033
 
 
- <a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Printed Books]
+<a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Printed Books At Amazon]
 
+ 
+ 
 <table>
 <tbody>
 <tr class="odd">
