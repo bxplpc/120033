@@ -9,7 +9,6 @@
 ## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
 
 <br/>
-
 <p align="center"><b>PLPC-120033</b></p>
 
 <p align="center"><i>First US Edition</i></p>
