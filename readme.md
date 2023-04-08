@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-<img align="right"  height="340" src="./images/frontCover-1.jpg">
+<img align="right"  height="360" src="./images/frontCover-1.jpg">
 
 # Nature of Polyexistentials:
 
