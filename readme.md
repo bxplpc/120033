@@ -9,17 +9,11 @@
 ## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
 
 <br/>
-<center> <h1> PLPC-120033 </h1> </center> 
-jjjjjjjj
-<p align="center"><font size="14">PLPC-120033</font></p>
+
+<p align="center"><font size="3">PLPC-120033</font></p>
 1234
-<p style="text-align:center">PLPC-120033</p>
-<p style="text-align:center"><h1>PLPC-120033</h1></p>
 <p align="center">First US Edition</p>
 
-<div align="center">
-  First US Edition
-</div>
 
 <br/>
 <a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
