@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-<img align="right"  height="540" src="./images/frontCover-1.jpg" href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">
+<img align="right"  height="540" src="./images/frontCover-1.jpg">
 
 # Nature of Polyexistentials:
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<p align="center">__PLPC-120033__</p>
+<p align="center"><b>PLPC-120033</b></p>
 
 <p align="center">_First US Edition_</p>
 
