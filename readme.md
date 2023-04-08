@@ -14,6 +14,10 @@
 <p style="text-align:center"><h1>PLPC-120033</h1></p>
 <p style="text-align:center">First US Edition</p>
 
+<div align="center">
+  First US Edition
+</div>
+
 <br/>
 <a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
 
