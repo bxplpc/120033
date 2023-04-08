@@ -10,10 +10,9 @@
 
 <br/>
 
-<p align="center"><font size="3">PLPC-120033</font></p>
-1234
-<p align="center">First US Edition</p>
+<p align="center">**PLPC-120033**</p>
 
+<p align="center">_First US Edition_/p>
 
 <br/>
 <a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
