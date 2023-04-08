@@ -4,11 +4,9 @@
 
 # The Nature of Poly-Existentials:
 
-## Basis for Abolishment of 
+## Basis for Abolishment of The Western Intellectual Property Rights Regime
 
-## The Western Intellectual Property Rights Regime
-
-## And Introduction of
+## And Introduction of 
 
 ## the Libre-Halaal ByStar Digital Ecosystem
 
