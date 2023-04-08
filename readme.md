@@ -2,7 +2,7 @@
 
 <img align="right"  height="480" src="./images/frontCover-1.jpg">
 
-# The Nature of Poly-Existentials:
+# Nature of Poly-Existentials:
 
 ## Basis for Abolishment of The Western Intellectual Property Rights Regime
 
