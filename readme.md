@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-<img align="right"  height="480" src="./images/frontCover-1.jpg">
+<img align="right"  height="520" src="./images/frontCover-1.jpg">
 
 # Nature of Poly-Existentials:
 
