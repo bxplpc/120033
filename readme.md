@@ -14,8 +14,8 @@
 
 <p align="center"><i>First US Edition</i></p>
 
-<br/>
-<a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">[Order Printed Books At Amazon]
+<br/><br/>
+<a href="/content/generated/doc.free/mohsen/PLPC/120033/current/PLPC-120033.bib">Order Printed Books At Amazon</a>
 
 <br/><br/> 
 <table>
