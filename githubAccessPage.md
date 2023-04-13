@@ -14,7 +14,7 @@
 <p align="center"><i>First US Edition</i></p>
 
 <br/><br/>
-<a href="./cite/PLPC-120033.bib">Order Printed Books At Amazon</a>
+<a href="./cite/PLPC-120033.bib">Order Prints Books At Amazon</a>
 <br/> 
 <table>
 <tbody>
@@ -55,30 +55,28 @@
 
 AVAILABLE FORMATS  
 
--   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- Amazon -- 6x9, Black and White, Soft Cover -- ISBN: 978-1-960957-00-9
--   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- Amazon -- 6x9, Color, Soft Cover
--   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- IngramSparc -- 6x9, Black and White, Soft Cover
--   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- Amazon -- 6x9, Color, Soft Cover
+-   [Prints](./NOTYET):
+    -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-00-9
+-   [Prints](./NOTYET):
+    -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-01-6
+-   [Prints](./NOTYET):
+    -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- 8.5x11 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
+    -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-02-3
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Complete Book, No Cover Pages
+    -- 8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-02-3
 -   [PDF](./covers/c-120033-1_04-cover-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Soft Cover
+    -- 8.5x11 -- Soft Cover -- p3csl -- ISBN: 978-1-960957-02-3
 -   [PDF](./pdf/c-120033-1_04-book-a4-col-emb-pub.pdf):
-    -- A4 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
+    -- A4 -- Complete Book + Embeded Cover -- p4cel -- ISBN: 978-1-960957-03-0
 -   [PDF](./pdf/c-120033-1_04-book-a4-col-sft-loc.pdf):
-    -- A4 -- Complete Book, No Cover Pages
+    -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-03-0
 -   [PDF](./covers/c-120033-1_04-cover-a4-col-sft-loc.pdf):
-    -- A4 -- Soft Cover
+    -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-03-0
 -   [EPUB](./ebook/c-120033-1_04-eBook.epub):
-    -- eBook -- ISBN: 978-1-960957-0
--   [HTML](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
-    -- -- Displays the document as a web page.
+    -- eBook -- h0csl -- ISBN: 978-1-960957-04-7
+-   [HTML](./NOTYET):
+    -- web -- h0csl -- ISBN: 978-1-960957-04-7
 
 SHORT DESCRIPTION  
 
