@@ -55,22 +55,30 @@
 
 AVAILABLE FORMATS  
 
+-   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
+    -- Amazon -- 6x9, Black and White, Soft Cover -- ISBN: 978-1-960957-00-9
+-   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
+    -- Amazon -- 6x9, Color, Soft Cover
+-   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
+    -- IngramSparc -- 6x9, Black and White, Soft Cover
+-   [Printed](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
+    -- Amazon -- 6x9, Color, Soft Cover
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
-    -- -- 8.5x11 -- Embeded Cover
+    -- 8.5x11 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
+-   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-sft-loc.pdf):
+    -- 8.5x11 -- Complete Book, No Cover Pages
+-   [PDF](./pdf/c-120033-1_04-cover-8.5x11-col-sft-loc.pdf):
+    -- 8.5x11 -- Soft Cover
+-   [PDF](./pdf/c-120033-1_04-book-a4-col-emb-pub.pdf):
+    -- A4 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
+-   [PDF](./pdf/c-120033-1_04-book-a4-col-sft-loc.pdf):
+    -- A4 -- Complete Book, No Cover Pages
+-   [PDF](./pdf/c-120033-1_04-cover-a4-col-sft-loc.pdf):
+    -- A4 -- Soft Cover
+-   [EPUB](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
+    -- eBook -- ISBN: 978-1-960957-0
 -   [HTML](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
     -- -- Displays the document as a web page.
-
-AVAILABLE OTHER FORMS  
-
--   [c-120033-natureOfPolyExistentials-8.5x11.pdf](/content/generated/doc.free/mohsen/PLPC/120033/current/c-120033-natureOfPolyExistentials-8.5x11.pdf):
-    -- -- Complete document in pdf format -- US Letter (8.5x11) Paper
-    Size .
--   [c-120033-natureOfPolyExistentials-a4.pdf](/content/generated/doc.free/mohsen/PLPC/120033/current/c-120033-natureOfPolyExistentials-a4.pdf):
-    -- -- Complete document in pdf format -- A4 paper size .
--   [c-120033-natureOfPolyExistentials-17.5x23.5.pdf](/content/generated/doc.free/mohsen/PLPC/120033/current/c-120033-natureOfPolyExistentials-17.5x23.5.pdf):
-    -- -- Complete document in pdf format -- 17.5cmx23.5cm paper size .
--   [c-120033-natureOfPolyExistentials-6x9.pdf](/content/generated/doc.free/mohsen/PLPC/120033/current/c-120033-natureOfPolyExistentials-6x9.pdf):
-    -- -- Complete document in pdf format -- 6inx9in paper size .
 
 SHORT DESCRIPTION  
 
