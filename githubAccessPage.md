@@ -15,8 +15,7 @@
 
 <br/><br/>
 <a href="./cite/PLPC-120033.bib">Order Printed Books At Amazon</a>
-
-<br/><br/> 
+<br/> 
 <table>
 <tbody>
 <tr class="odd">
@@ -56,8 +55,8 @@
 
 AVAILABLE FORMATS  
 
--   [PDF](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa.pdf):
-    -- -- Provides the document in Portable Document Format.
+-   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
+    -- -- 8.5x11 -- Embeded Cover
 -   [HTML](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
     -- -- Displays the document as a web page.
 
