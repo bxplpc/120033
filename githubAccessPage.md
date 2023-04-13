@@ -67,15 +67,15 @@ AVAILABLE FORMATS
     -- 8.5x11 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-sft-loc.pdf):
     -- 8.5x11 -- Complete Book, No Cover Pages
--   [PDF](./pdf/c-120033-1_04-cover-8.5x11-col-sft-loc.pdf):
+-   [PDF](./covers/c-120033-1_04-cover-8.5x11-col-sft-loc.pdf):
     -- 8.5x11 -- Soft Cover
 -   [PDF](./pdf/c-120033-1_04-book-a4-col-emb-pub.pdf):
     -- A4 -- Complete Book + Embeded Cover -- ISBN: 978-1-960957-0
 -   [PDF](./pdf/c-120033-1_04-book-a4-col-sft-loc.pdf):
     -- A4 -- Complete Book, No Cover Pages
--   [PDF](./pdf/c-120033-1_04-cover-a4-col-sft-loc.pdf):
+-   [PDF](./covers/c-120033-1_04-cover-a4-col-sft-loc.pdf):
     -- A4 -- Soft Cover
--   [EPUB](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
+-   [EPUB](./ebook/c-120033-1_04-eBook.epub):
     -- eBook -- ISBN: 978-1-960957-0
 -   [HTML](/content/generated/doc.free/mohsen/PLPC/120033/current/articleEnFa/index.html):
     -- -- Displays the document as a web page.
