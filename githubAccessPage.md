@@ -50,6 +50,10 @@
 <td>Author(s):</td>
 <td><a href="http://mohsen.1.banan.byname.net/contact">Mohsen BANAN</a></td>
 </tr>
+<tr class="odd">
+<td>Comments, Feedback:</td>
+<td><a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</td>
+</tr>
 </tbody>
 </table>
 
@@ -124,15 +128,5 @@ towards adoption of halaal manner-of-existence of polyexistentials in
 Eastern societies in general and Iran in particular. The last chapter of
 this document focuses on the model of Libre-Halaal polyexistentials as a
 replacement for the Western IPR regime.
-
-  
-  
-
-  
-  
-
-------------------------------------------------------------------------
-
-FULL INLINE DOCUMENT
 
   
