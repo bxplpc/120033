@@ -14,7 +14,7 @@
 <p align="center"><i>First US Edition</i></p>
 
 <br/><br/>
-<a href="./cite/PLPC-120033.bib">Order Prints Books At Amazon</a>
+<a href="./cite/PLPC-120033.bib">Order Book Prints At Amazon</a>
 <br/> 
 <table>
 <tbody>
