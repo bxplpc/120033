@@ -63,8 +63,10 @@ AVAILABLE FORMATS
     -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-00-9
 -   [Prints](https://www.amazon.com/dp/1960957015):
     -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-01-6
-[//]: # -   [Prints](./NOTYET):
-[//]: #     -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
+<!---
+-   [Prints](./NOTYET):
+    -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
+--->
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf):
     -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-02-3
 -   [PDF](./pdf/c-120033-1_04-book-8.5x11-col-sft-loc.pdf):
