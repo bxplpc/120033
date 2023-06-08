@@ -14,7 +14,7 @@
 <p align="center"><i>First US Edition</i></p>
 
 <br/><br/>
-<a href="./cite/PLPC-120033.bib">Order Book Prints At Amazon</a>
+<a href="https://www.amazon.com/dp/1960957015">Order Book Prints At Amazon</a>
 <br/> 
 <table>
 <tbody>
@@ -79,6 +79,7 @@ AVAILABLE FORMATS
     -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-03-0
 -   [PDF](./covers/c-120033-1_04-cover-a4-col-sft-loc.pdf):
     -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-03-0
+
 -   [EPUB](./ebook/c-120033-1_04-eBook.epub):
     -- eBook -- h0csl -- ISBN: 978-1-960957-04-7
 -   [HTML](http://mohsen.1.banan.byname.net/PLPC/120033):
