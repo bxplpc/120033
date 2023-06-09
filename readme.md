@@ -14,9 +14,8 @@
 <p align="center"><i>First US Edition</i></p>
 
 <br/><br/>
-Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US </a> <a href="https://www.amazon.fr/dp/1960957015"> France </a> <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a>  <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
-<br/>
-424 pages --- 6 x 0.96 x 9 inches
+Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
+(424 pages --- 6 x 0.96 x 9 inches)
 <br/>
 
 <table>
