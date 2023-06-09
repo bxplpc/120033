@@ -40,7 +40,7 @@
 </tr>
 <tr class="even">
 <td>Federated Publications:</td>
-<td><a href="https://github.com/bxplpc/120033">Github</a>  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a> </td>
+<td><a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a> </td>
 </tr>
 <tr class="odd">
 <td>AccessPage Revision:</td>
