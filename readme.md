@@ -14,7 +14,8 @@
 <p align="center"><i>First US Edition</i></p>
 
 <br/><br/>
-<a href="https://www.amazon.com/dp/1960957015">Order Book Prints At Amazon</a>
+<p Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US </a> <a href="https://www.amazon.fr/dp/1960957015"> France </a> <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a>  <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a> </p>
+<p 424 pages --- 6 x 0.96 x 9 inches </p>
 <br/> 
 <table>
 <tbody>
@@ -59,10 +60,10 @@
 
 AVAILABLE FORMATS  
 
--   [Prints](https://www.amazon.com/dp/1960957007):
-    -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-00-9
 -   [Prints](https://www.amazon.com/dp/1960957015):
     -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-01-6
+-   [Prints](https://www.amazon.com/dp/1960957007):
+    -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-00-9
 <!---
 -   [Prints](./NOTYET):
     -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
