@@ -62,7 +62,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 AVAILABLE FORMATS  
 
 -   [Prints](https://www.amazon.com/dp/1960957015):
-    -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-01-6
+    -- Amazon -- 6x9, Color, Soft Cover -- p1csk -- ISBN: 978-1-960957-01-6 -- LCCN: 2023911133
 -   [Prints](https://www.amazon.com/dp/1960957007):
     -- Amazon -- 6x9, Black and White, Soft Cover -- p1bsk -- ISBN: 978-1-960957-00-9
 <!---
