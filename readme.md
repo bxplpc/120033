@@ -41,18 +41,22 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 <td><a href="http://mohsen.1.banan.byname.net/PLPC/120033">http://mohsen.1.banan.byname.net/PLPC/120033</a></td>
 </tr>
 <tr class="even">
-<td>Federated Publications:</td>
+<td>Federated Republications:</td>
 <td><a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a> </td>
 </tr>
 <tr class="odd">
+<td>See Also:</td>
+<td><a href="https://github.com/bxplpc/120074">PLPC-120074 (International Edition)</a></td>
+</tr>
+<tr class="even">
 <td>AccessPage Revision:</td>
 <td>This AccessPage was produced on June 2, 2023 at 18:36 PDT (-0700)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Author(s):</td>
 <td><a href="http://mohsen.1.banan.byname.net/contact">Mohsen BANAN</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Comments, Feedback:</td>
 <td><a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</td>
 </tr>
