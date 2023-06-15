@@ -29,12 +29,8 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 <td>1.041</td>
 </tr>
 <tr class="odd">
-<td>Dated:</td>
+<td>Publication Date</td>
 <td>June 2, 2023</td>
-</tr>
-<tr class="even">
-<td>Group:</td>
-<td>polyexistential</td>
 </tr>
 <tr class="odd">
 <td>Primary URL:</td>
