@@ -46,7 +46,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="odd">
 <td>See Also:</td>
-<td><a href="https://github.com/bxplpc/120074">PLPC-120074 (International Edition)</a></td>
+<td><a href="https://github.com/bxplpc/120074">PLPC-120074</a>  (International Edition)</td>
 </tr>
 <tr class="even">
 <td>AccessPage Revision:</td>
