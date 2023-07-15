@@ -26,11 +26,11 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="even">
 <td>Version:</td>
-<td>1.041</td>
+<td>1.042</td>
 </tr>
 <tr class="odd">
 <td>Publication Date:</td>
-<td>June 2, 2023</td>
+<td>July 14, 2023</td>
 </tr>
 <tr class="odd">
 <td>Primary URL:</td>
@@ -46,7 +46,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="even">
 <td>AccessPage Revision:</td>
-<td>This AccessPage was produced on June 2, 2023 at 18:36 PDT (-0700)</td>
+<td>This AccessPage was produced on July 14, 2023 at 18:36 PDT (-0700)</td>
 </tr>
 <tr class="odd">
 <td>Author(s):</td>
