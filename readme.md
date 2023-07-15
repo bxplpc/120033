@@ -30,7 +30,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="odd">
 <td>Publication Date:</td>
-<td>July 14, 2023</td>
+<td>July 3, 2023</td>
 </tr>
 <tr class="odd">
 <td>Primary URL:</td>
