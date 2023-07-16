@@ -1,0 +1,36 @@
+* About These PDF files
+
+We are providing here all the PDF files that you may need for
+8.5x11 and A4 printing of the book without cover, with embedded-cover
+and with wrapped-soft-cover.
+
+* Full Color Printing With Embedded Cover
+
+ If you can conveniently access a color printer and print in color then, simply
+ print the A4 or the 8.5x11 of the *book-xx-col-emb-pub.pdf* files.
+
+ The front and back covers are embedded in those files.
+
+*  Full Color Printing With DIY Wrapped Soft Cover
+
+These are the steps for builing a Do-It-Yourself (DIY) book
+
+1) Color print the A4 or the 8.5x11 of the *book-xx-col-sft-loc.pdf* files
+2) Color print and trim the A4 or the 8.5x11 of the *../covers/col-sft-loc.pdf* files
+3) Trim the printed version of (2)
+4) Use some form of binding to wrap (1) with (3)
+
+* Black and White Printing Plus Color Pages With Embedded Cover
+
+ 1) With a B&W printer, print the A4 or the 8.5x11 of the *book-xx-col-sft-loc.pdf* files
+ 2) With a Color printer, print the A4 or the 8.5x11 of the -*colorPages.pdf* files
+ 3) Insert color pages of (2) into (1)
+
+* Black and White Printing Plus Color Pages With DIY Wrapped Soft Cover
+
+ 1) With a B&W printer, print the A4 or the 8.5x11 of the *book-xx-col-sft-loc.pdf* files
+ 2) With a Color printer, print the A4 or the 8.5x11 of the -*colorPages.pdf* files
+ 3) Insert color pages of (2) into (1)
+ 4) Color print and trim the A4 or the 8.5x11 of the *../covers/col-sft-loc.pdf* files
+ 5) Trim the printed version of (4)
+ 6) Use some form of binding to wrap (3) with (5)
