@@ -26,7 +26,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="even">
 <td>Version:</td>
-<td>1.042</td>
+<td>1.043</td>
 </tr>
 <tr class="odd">
 <td>Publication Date:</td>
