@@ -39,7 +39,7 @@ Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US 
 </tr>
 <tr class="even">
 <td>Federated Republications:</td>
-<td><a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a> </td>
+<td><a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI</a> </td>
 </tr>
 <tr class="odd">
 <td>See Also:</td>
