@@ -19,9 +19,9 @@ Could you tell me where you came across this term? Knowing the source might help
 me understand its intended meaning.
 #+END_QUOTE
 
-#+BEGIN_VERSE
+#+BEGIN_SRC latex
 Mohsen: Don't you know about [[https://github.com/bxplpc/120074]]?
-#+END_VERSE
+#+END_SRC
 
 #+BEGIN_QUOTE
 I can't directly access or interact with specific content from external websites
@@ -33,7 +33,7 @@ repository, you'll need to provide me with the relevant information from the
 site. For example, copy and paste the definition or explanation of the term.
 #+END_QUOTE
 
-#+BEGIN_VERSE
+#+BEGIN_SRC latex
 
 Mohsen:
 
@@ -111,7 +111,7 @@ topic which amount to naggings of impotents, we are putting a blueprint for a
 cure on the table. As engineers, we are offering explicit multidisciplinary
 solutions.
 
-#+END_VERSE
+#+END_SRC
 
 #+BEGIN_QUOTE
 Computer: This description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
