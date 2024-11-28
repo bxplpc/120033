@@ -5,13 +5,23 @@ After reading your  "You Exist In The Long Context" -- https://thelongcontext.co
 
 Here is the transcript:
 
-/Mohsen: What is the nature of polyexistentials?/
+#+BEGIN_EXAMPLE
+Mohsen: What is the nature of polyexistentials?
+#+END_EXAMPLE
 
-=Computer: "Polyexistentials" isn't a standard philosophical or scientific term. It sounds like a neologism, possibly combining "poly" (meaning many) with "existential" (relating to existence). Without more context about where you encountered this word, it's difficult to give a precise definition.=
+#+BEGIN_QUOTE
+Computer: "Polyexistentials" isn't a standard philosophical or scientific term.
+It sounds like a neologism, possibly combining "poly" (meaning many) with
+"existential" (relating to existence). Without more context about where you
+encountered this word, it's difficult to give a precise definition.
 
-=Could you tell me where you came across this term? Knowing the source might help me understand its intended meaning.=
+=Could you tell me where you came across this term? Knowing the source might help
+me understand its intended meaning.=
+#+END_QUOTE
 
-/Mohsen: Don't you know about https://github.com/bxplpc/120074?/
+#+BEGIN_EXAMPLE
+Mohsen: Don't you know about https://github.com/bxplpc/120074?
+#+END_EXAMPLE
 
 #+BEGIN_QUOTE
 I can't directly access or interact with specific content from external websites
@@ -92,24 +102,28 @@ solution.
 
 #+END_EXAMPLE
 
+#+BEGIN_QUOTE
 Computer: This description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
 
-Polyexistentials vs. Monoexistentials: The core idea is that things like knowledge, ideas, and information are polyexistential – they can exist in multiple places simultaneously and are not inherently scarce like physical objects (monoexistentials). Copying a digital file doesn't diminish the original.
+- /Polyexistentials vs. Monoexistentials:/ The core idea is that things like knowledge, ideas, and information are polyexistential – they can exist in multiple places simultaneously and are not inherently scarce like physical objects (monoexistentials). Copying a digital file doesn't diminish the original.
 
-IPR as Artificial Scarcity: The book argues that IPR, like copyright and
+- /IPR as Artificial Scarcity/: The book argues that IPR, like copyright and
 patents, artificially create scarcity where it doesn't naturally exist. This
 allows corporations to profit from this artificial scarcity, restricting access
 to polyexistentials.
 
-Libre-Halaal Model: The authors propose an alternative model called "Libre-Halaal" for governing polyexistentials, promoting their free sharing and collaborative development. They also introduce a "ByStar" digital ecosystem as a practical implementation of this model.
+- /Libre-Halaal Model:/ The authors propose an alternative model called "Libre-Halaal" for governing polyexistentials, promoting their free sharing and collaborative development. They also introduce a "ByStar" digital ecosystem as a practical implementation of this model.
 
-Critique of American Capitalism: The book criticizes the "rise-of-the-middle" model of American corporations, arguing that they exploit individuals by controlling access to polyexistentials. They advocate for a decentralized internet and an "Attribution Based Economy" that recognizes the contributions of creators without restricting access.
+- /Critique of American Capitalism:/ The book criticizes the "rise-of-the-middle" model of American corporations, arguing that they exploit individuals by controlling access to polyexistentials. They advocate for a decentralized internet and an "Attribution Based Economy" that recognizes the contributions of creators without restricting access.
 
-Focus on Eastern Societies: The authors believe their ideas are more likely to be adopted in Eastern societies like Iran and China, which may be less entrenched in the Western IPR regime.
+- /Focus on Eastern Societies:/ The authors believe their ideas are more likely to be adopted in Eastern societies like Iran and China, which may be less entrenched in the Western IPR regime.
 
 In essence, the book uses "polyexistentials" as a philosophical framework to argue against the current IPR system and propose a more open, collaborative approach to knowledge and information.
+#+END_QUOTE
 
+#+BEGIN_EXAMPLE
 Mohsen: Is the logic of nature of polyexistentials valid?
+#+END_EXAMPLE
 
 The argument about the nature of polyexistentials being inherently non-scarce is logically valid. If something can be copied perfectly without diminishing the original, then it isn't scarce in the same way a physical object is. This is a key difference between information and physical goods.
 
