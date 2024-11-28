@@ -14,14 +14,81 @@ Here is the transcript:
 /Mohsen: Don't you know about https://github.com/bxplpc/120074?/
 
 #+BEGIN_QUOTE
-I can't directly access or interact with specific content from external websites or URLs, including GitHub repositories. Therefore, I can't tell you what's in that repository.
+I can't directly access or interact with specific content from external websites
+or URLs, including GitHub repositories. Therefore, I can't tell you what's in
+that repository.
 
-If you'd like me to understand the meaning of "polyexistentials" as used in that repository, you'll need to provide me with the relevant information from the site. For example, copy and paste the definition or explanation of the term.=
+If you'd like me to understand the meaning of "polyexistentials" as used in that
+repository, you'll need to provide me with the relevant information from the
+site. For example, copy and paste the definition or explanation of the term.
 #+END_QUOTE
 
 #+BEGIN_EXAMPLE
 
-Mohsen: SHORT DESCRIPTION In this book we analyze the topic of Intellectual Property Rights (IPR) from a new perspective. The topic of restriction of polyexistentials and Western IPR are one and the same. Yet, the concept of polyexistentials has not appeared in prior discussions of this topic. This is the very first time that the concept and the word “polyexistetials” are being introduced. Knowledge, know-how, uses of know-how, ideas and information are inherently non-scarce. They are polyexistentials. Unlike monoexistentials which exist in singular, polyexistentials naturally exist in multiples and are inherently not scarce. What is abundant in nature is being made artificially scarce through man-made ownership rules called copyright and patents. These ownership rules then permit a certain group which usually take the form of corporations to economically profit from these unnatural and economically motivated artificial scarcities. The model of polyexistence makes it easy to demonstrate that the concept of Intellectual Property is invalid. This proof is based on logic that is rooted in nature of existence and nature of possession and the requirement for ownership to be in harmony with nature of possession and existence. Having rejected the Western IPR regime as an erroneous model for govenrnance of polyexistentials, we introduce the Libre-Halaal model of governance of polyexistentials towards facilitating conviviality of tools. We then focus on the digital world and introduce the The Libre-Halaal By* (ByStar) Digital Ecosystem, as a moral alternative to the existing proprietary American digital ecosystem. Equipped with a multidisciplinary blueprint, we offer our initial implementation of the ByStar digital ecosystem as a starting point towards concrete solutions. Todays’s American Internet is mostly a business construct. The current basic model of internet is rooted in the rise-of-the-middle model of corporations exploiting the individual. The engineering architecture of the proprietary internet application services is very central. Proprietary American corporations the likes of Google, Facebook, Amazon, Microsoft and Apple are positioned in the middle and monitor, control and expolit citizens of the world. The engineering architecture of Libre-Halaal ByStar Digital Ecosystem is distinctly different. The multidisciplinary blue print that we have provided can be the basis for de-Americanization, de-IPR-ization and redecentralization of internet application services. We are pro-business. We are devout monoexistential bounded-corporations capitalists. The existing capitalist model for monoexistentials is generally correct, in both philosophical and economic terms. But the extension of the monoexistential capitalist model into the domain of polyexistentials, based on the Western IPR regime, is a grave mistake. To address this mistake of American Capitalism, we introduce the model of Global Polyexistential Capitalism as an Attribution Based Economy towards correcting the existing IPR rooted Ownership Based Economy of American Capitalism. Deep understanding of the strategy that we outline in this book, makes it clear that Polyexistential American Capitalism is very vulnerable. Our ultimate goal for all of this has been to influence societal policies towards adoption of halaal manner of-existence of polyexistentials. We recognize that adoption of such societal policies in America is likely not possible and their adoption in the West is likely very difficult. Therefore, we focus on Eastern societies in general and Iran and China in particular. It is only through full rejection of Western IPR regime and its deep roots in Americanism that humanity can be rescued. Distinct and Different: What we are trying to do in this book is distinct and different from the many other books and articles that have been written about Intellectual Property. First, most books on this topic are written by Western lawyers, politicians, economists, journalist, sociologists and academics. We are engineers and we are not Western. Second, this is the very first time that the philosophical concept and terminology of polyexistentials is being used to analyze this topic and this domain. Third, our treatment of this subject is genuinely independent. We are not doing it for money or hype. Finally, unlike most other writings on this topic which amount to naggings of impotents, we are putting a blueprint for a cure on the table. As engineers, we are offering explicit multidisciplinary solution.
+Mohsen:
+
+SHORT DESCRIPTION
+
+In this book we analyze the topic of Intellectual Property Rights (IPR) from a new perspective.
+
+The topic of restriction of polyexistentials and Western IPR are one and the
+same. Yet, the concept of polyexistentials has not appeared in prior discussions
+of this topic. This is the very first time that the concept and the word
+“polyexistetials” are being introduced. Knowledge, know-how, uses of know-how,
+ideas and information are inherently non-scarce. They are polyexistentials.
+Unlike monoexistentials which exist in singular, polyexistentials naturally
+exist in multiples and are inherently not scarce. What is abundant in nature is
+being made artificially scarce through man-made ownership rules called copyright
+and patents. These ownership rules then permit a certain group which usually
+take the form of corporations to economically profit from these unnatural and
+economically motivated artificial scarcities. The model of polyexistence makes
+it easy to demonstrate that the concept of Intellectual Property is invalid.
+This proof is based on logic that is rooted in nature of existence and nature of
+possession and the requirement for ownership to be in harmony with nature of
+possession and existence. Having rejected the Western IPR regime as an erroneous
+model for govenrnance of polyexistentials, we introduce the Libre-Halaal model
+of governance of polyexistentials towards facilitating conviviality of tools. We
+then focus on the digital world and introduce the The Libre-Halaal By* (ByStar)
+Digital Ecosystem, as a moral alternative to the existing proprietary American
+digital ecosystem. Equipped with a multidisciplinary blueprint, we offer our
+initial implementation of the ByStar digital ecosystem as a starting point
+towards concrete solutions. Todays’s American Internet is mostly a business
+construct. The current basic model of internet is rooted in the
+rise-of-the-middle model of corporations exploiting the individual. The
+engineering architecture of the proprietary internet application services is
+very central. Proprietary American corporations the likes of Google, Facebook,
+Amazon, Microsoft and Apple are positioned in the middle and monitor, control
+and expolit citizens of the world. The engineering architecture of Libre-Halaal
+ByStar Digital Ecosystem is distinctly different. The multidisciplinary blue
+print that we have provided can be the basis for de-Americanization,
+de-IPR-ization and redecentralization of internet application services. We are
+pro-business. We are devout monoexistential bounded-corporations capitalists.
+The existing capitalist model for monoexistentials is generally correct, in both
+philosophical and economic terms. But the extension of the monoexistential
+capitalist model into the domain of polyexistentials, based on the Western IPR
+regime, is a grave mistake. To address this mistake of American Capitalism, we
+introduce the model of Global Polyexistential Capitalism as an Attribution Based
+Economy towards correcting the existing IPR rooted Ownership Based Economy of
+American Capitalism. Deep understanding of the strategy that we outline in this
+book, makes it clear that Polyexistential American Capitalism is very
+vulnerable. Our ultimate goal for all of this has been to influence societal
+policies towards adoption of halaal manner of-existence of polyexistentials. We
+recognize that adoption of such societal policies in America is likely not
+possible and their adoption in the West is likely very difficult. Therefore, we
+focus on Eastern societies in general and Iran and China in particular. It is
+only through full rejection of Western IPR regime and its deep roots in
+Americanism that humanity can be rescued. Distinct and Different: What we are
+trying to do in this book is distinct and different from the many other books
+and articles that have been written about Intellectual Property. First, most
+books on this topic are written by Western lawyers, politicians, economists,
+journalist, sociologists and academics. We are engineers and we are not Western.
+Second, this is the very first time that the philosophical concept and
+terminology of polyexistentials is being used to analyze this topic and this
+domain. Third, our treatment of this subject is genuinely independent. We are
+not doing it for money or hype. Finally, unlike most other writings on this
+topic which amount to naggings of impotents, we are putting a blueprint for a
+cure on the table. As engineers, we are offering explicit multidisciplinary
+solution.
 
 #+END_EXAMPLE
 
@@ -29,7 +96,10 @@ Computer: This description introduces "polyexistentials" as a key concept for cr
 
 Polyexistentials vs. Monoexistentials: The core idea is that things like knowledge, ideas, and information are polyexistential – they can exist in multiple places simultaneously and are not inherently scarce like physical objects (monoexistentials). Copying a digital file doesn't diminish the original.
 
-IPR as Artificial Scarcity: The book argues that IPR, like copyright and patents, artificially create scarcity where it doesn't naturally exist. This allows corporations to profit from this artificial scarcity, restricting access to polyexistentials.
+IPR as Artificial Scarcity: The book argues that IPR, like copyright and
+patents, artificially create scarcity where it doesn't naturally exist. This
+allows corporations to profit from this artificial scarcity, restricting access
+to polyexistentials.
 
 Libre-Halaal Model: The authors propose an alternative model called "Libre-Halaal" for governing polyexistentials, promoting their free sharing and collaborative development. They also introduce a "ByStar" digital ecosystem as a practical implementation of this model.
 
