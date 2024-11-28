@@ -19,9 +19,9 @@ Could you tell me where you came across this term? Knowing the source might help
 me understand its intended meaning.
 #+END_QUOTE
 
-#+BEGIN_EXAMPLE
+#+BEGIN_VERSE
 Mohsen: Don't you know about [[https://github.com/bxplpc/120074]]?
-#+END_EXAMPLE
+#+END_VERSE
 
 #+BEGIN_QUOTE
 I can't directly access or interact with specific content from external websites
@@ -33,7 +33,7 @@ repository, you'll need to provide me with the relevant information from the
 site. For example, copy and paste the definition or explanation of the term.
 #+END_QUOTE
 
-#+BEGIN_EXAMPLE
+#+BEGIN_VERSE
 
 Mohsen:
 
@@ -111,7 +111,7 @@ topic which amount to naggings of impotents, we are putting a blueprint for a
 cure on the table. As engineers, we are offering explicit multidisciplinary
 solutions.
 
-#+END_EXAMPLE
+#+END_VERSE
 
 #+BEGIN_QUOTE
 Computer: This description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
@@ -122,27 +122,29 @@ Computer: This description introduces "polyexistentials" as a key concept for cr
   objects (monoexistentials). Copying a digital file doesn't diminish the
   original.
 
-- /IPR as Artificial Scarcity/: The book argues that IPR, like copyright and
+- *IPR as Artificial Scarcity:* The book argues that IPR, like copyright and
   patents, artificially create scarcity where it doesn't naturally exist. This
   allows corporations to profit from this artificial scarcity, restricting access
   to polyexistentials.
 
-- /Libre-Halaal Model:/ The authors propose an alternative model called
+- *Libre-Halaal Model:* The authors propose an alternative model called
   "Libre-Halaal" for governing polyexistentials, promoting their free sharing
   and collaborative development. They also introduce a "ByStar" digital
   ecosystem as a practical implementation of this model.
 
-- /Critique of American Capitalism:/ The book criticizes the "rise-of-the-middle"
+- *Critique of American Capitalism:* The book criticizes the "rise-of-the-middle"
   model of American corporations, arguing that they exploit individuals by
   controlling access to polyexistentials. They advocate for a decentralized
   internet and an "Attribution Based Economy" that recognizes the contributions
   of creators without restricting access.
 
-- /Focus on Eastern Societies:/ The authors believe their ideas are more likely to
+- *Focus on Eastern Societies:* The authors believe their ideas are more likely to
   be adopted in Eastern societies like Iran and China, which may be less
   entrenched in the Western IPR regime.
 
-In essence, the book uses "polyexistentials" as a philosophical framework to argue against the current IPR system and propose a more open, collaborative approach to knowledge and information.
+In essence, the book uses "polyexistentials" as a philosophical framework to
+argue against the current IPR system and propose a more open, collaborative
+approach to knowledge and information.
 #+END_QUOTE
 
 #+BEGIN_EXAMPLE
