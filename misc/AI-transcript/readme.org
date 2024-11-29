@@ -1,9 +1,22 @@
-#+TITLE: AI transcript
+#+TITLE: LLM/AI's Take on Nature of Polyexistentials and Invalidity of Intellectual Property
 
+After reading "You Exist In The Long Context" -- https://thelongcontext.com/, I
+decided to create a context for my book:
+#+BEGIN_CENTER
+Nature of Polyexistentials:\\
+Basis for Abolishment of the Western Intellectual Property Rights Regime\\
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem\\
+#+END_CENTER
+Then, I used that as a basis for a debate on the
+validity of the Western IPR Regime with the LLM/AI (Large Language Model / Artificial Intelligence).
 
-After reading your  "You Exist In The Long Context" -- https://thelongcontext.com/, I created a context for my book and used it as a basis for a debate on the validity of the Western IPR Regime with the LLM/AI.
+It proved to be very interesting! LLM/AI absorbed my context for the new concept of
+"Polyexistentials" relatively well. It then tried to apply logic and reason
+based on that concept. To the extent that one can say it thinks, and to the
+extent that it is able to absorb the longish context, it thinks and talks like a
+Westerner.
 
-Here is the transcript:
+Here is the transcript, which also includes some commentary with various pointers to the book:
 
 #+BEGIN_EXAMPLE
 Mohsen: What is the Nature of Polyexistentials?
@@ -19,6 +32,9 @@ Could you tell me where you came across this term? Knowing the source might help
 me understand its intended meaning.
 #+END_QUOTE
 
+So, we know that my book has not been part of its training.
+My book is relatively new, so that would be normal.
+
 #+BEGIN_SRC latex
 Mohsen: Don't you know about https://github.com/bxplpc/120074?
 #+END_SRC
@@ -29,9 +45,11 @@ Nature of Polyexistentials:\\
 Basis for Abolishment of the Western Intellectual Property Rights Regime\\
 And Introduction of the Libre-Halaal ByStar Digital Ecosystem\\
 #+END_CENTER
+It contains a short description.
+
 
 #+BEGIN_QUOTE
-I can't directly access or interact with specific content from external websites
+/Computer:/ I can't directly access or interact with specific content from external websites
 or URLs, including GitHub repositories. Therefore, I can't tell you what's in
 that repository.
 
@@ -62,7 +80,7 @@ economically profit from these unnatural and economically motivated artificial
 scarcities. The model of polyexistence makes it easy to demonstrate that the
 concept of Intellectual Property is invalid. This proof is based on logic that
 is rooted in nature of existence and nature of possession and the requirement
-for ownership to be in harmony with nature of possession and existence.
+for ownership to be in harmony with nature of possession and the nature of existence.
 
 Having rejected the Western IPR regime as an erroneous model for govenrnance of
 polyexistentials, we introduce the Libre-Halaal model of governance of
@@ -121,7 +139,7 @@ solutions.
 #+END_SRC
 
 #+BEGIN_QUOTE
-Computer: This description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
+/Computer:/  description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
 
 - *Polyexistentials vs. Monoexistentials:* The core idea is that things like
   knowledge, ideas, and information are polyexistential – they can exist in
@@ -155,6 +173,10 @@ approach to knowledge and information.
 #+END_QUOTE
 
 
+The summary is reasonable. But it is missing a key concept. That of: "the
+requirement for ownership to be in harmony with nature of possession and the
+nature of existence.
+
 #+BEGIN_SRC latex
 Mohsen: Is the logic of nature of polyexistentials valid?
 #+END_SRC
@@ -170,40 +192,46 @@ However, whether this logically invalidates the concept of intellectual property
 is a more complex question. Here's why:
 
 - *Incentives for Creation:* One major justification for IPR is that it provides
-incentives for people to create new works. Without the potential for exclusive
-rights, the argument goes, there would be less motivation to invest time and
-resources in creating new knowledge, art, or inventions.
+  incentives for people to create new works. Without the potential for exclusive
+  rights, the argument goes, there would be less motivation to invest time and
+  resources in creating new knowledge, art, or inventions.
 
 - *Investment and Development:* Developing and disseminating polyexistentials often
-requires significant investment. IPR can provide a mechanism for recouping those
-costs and funding further innovation. Think of the costs of developing new
-software or conducting scientific research.
+  requires significant investment. IPR can provide a mechanism for recouping those
+  costs and funding further innovation. Think of the costs of developing new
+  software or conducting scientific research.
 
 - *Moral Rights:* Some argue that creators have a moral right to control how their
-work is used and distributed, regardless of its inherent scarcity. This is a
-separate argument from the economic incentive argument.
+  work is used and distributed, regardless of its inherent scarcity. This is a
+  separate argument from the economic incentive argument.
 
 - *Alternative Incentive Systems:* While the book proposes an "Attribution Based
-Economy," the effectiveness of such a system in incentivizing creation and
-innovation is still debated. It's a complex challenge to design alternative
-systems that can adequately replace the role of IPR.
+  Economy," the effectiveness of such a system in incentivizing creation and
+  innovation is still debated. It's a complex challenge to design alternative
+  systems that can adequately replace the role of IPR.
 
 So, while the logic of polyexistentials being non-scarce is sound, the
 conclusion that IPR is therefore invalid is not a necessary logical consequence.
 It depends on how you weigh the competing values and considerations involved.
 #+END_QUOTE
 
+
+These are common Western and American beliefs that are results of the spins
+that proponents of IPR propagate.
+Chapter 6, "Debunking the Myth of Western IPR Regime" deals with that.
+
+
 #+BEGIN_SRC latex
-Mohsen: You say: Without the potential for exclusive rights, the argument goes,
+Mohsen: You say: "Without the potential for exclusive rights, the argument goes,
 there would be less motivation to invest time and resources in creating new
-knowledge, art, or inventions. -- But I say that is baseless. Why would the
+knowledge, art, or inventions." -- But, I say that is baseless. Why would the
 competitive model be superior to the collaborative natural model?
 
 #+END_SRC latex
 
 #+BEGIN_QUOTE
 
-You raise a crucial point about competitive vs. collaborative models for
+/Computer:/ You raise a crucial point about competitive vs. collaborative models for
 creating knowledge and art. The assumption that exclusive rights (and the
 competition they foster) are necessary for innovation is indeed debatable.
 Here's a breakdown of both sides:
@@ -211,37 +239,37 @@ Here's a breakdown of both sides:
 Arguments for Competitive/Exclusive Rights Model:
 
 - *Incentive Structure:* The traditional argument is that the potential for
-profit motivates individuals and companies to invest in risky and expensive
-creative endeavors. Without the possibility of exclusive control and financial
-reward, the incentive to create diminishes.
+  profit motivates individuals and companies to invest in risky and expensive
+  creative endeavors. Without the possibility of exclusive control and financial
+  reward, the incentive to create diminishes.
 
 - *Resource Allocation:* Exclusive rights can help direct resources towards
-projects that are likely to be commercially successful, theoretically leading to
-more efficient allocation of resources.
+  projects that are likely to be commercially successful, theoretically leading to
+  more efficient allocation of resources.
 
 - *Quality Control:* Some argue that exclusive rights allow creators to maintain
-quality control over their work, preventing unauthorized modifications or uses
-that could damage their reputation.
+  quality control over their work, preventing unauthorized modifications or uses
+  that could damage their reputation.
 
 Arguments for Collaborative/Open Models:
 
 - *Faster Innovation:* Open collaboration can accelerate the pace of innovation
-by allowing multiple individuals and groups to build upon each other's work. The
-open-source software movement is a prime example of this.
+  by allowing multiple individuals and groups to build upon each other's work. The
+  open-source software movement is a prime example of this.
 
 - *Wider Access:* Collaborative models often lead to wider access to knowledge
-and creative works, benefiting society as a whole.
+  and creative works, benefiting society as a whole.
 
 - *Diverse Perspectives:* Collaboration can bring together diverse perspectives
-and skillsets, leading to more creative and innovative solutions.
+  and skillsets, leading to more creative and innovative solutions.
 
 - *Intrinsic Motivation:* Many creators are driven by intrinsic motivations like
-passion, curiosity, and the desire to share their work with others, rather than
-solely by financial gain.
+  passion, curiosity, and the desire to share their work with others, rather than
+  solely by financial gain.
 
 - *Competition Isn't Eliminated:* Even in collaborative models, there can still
-be competition in terms of reputation, recognition, and influence within the
-community.
+  be competition in terms of reputation, recognition, and influence within the
+  community.
 
 The Key Question:
 
@@ -255,15 +283,16 @@ The debate continues, and both sides have valid points.
 
 #+BEGIN_EXAMPLE
 
-Mohsen: You seem to think that Western arguments are more valid
-than nature. Polyexistence is rooted in nature. The rules of nature are more
-valid than human arguments. Isn't that the case?
+Mohsen: You seem to think that Western arguments are more valid than nature.
+Polyexistence is rooted in nature.
+The rules of nature are more valid than human arguments.
+Isn't that the case?
 
 #+END_EXAMPLE
 
 #+BEGIN_QUOTE
 
-You're right to point out that polyexistentials, as defined, are rooted in the
+/Computer:/ You're right to point out that polyexistentials, as defined, are rooted in the
 observation of how information behaves – which we could consider a "natural"
 characteristic. However, it's important to distinguish between descriptive and
 normative statements:
@@ -271,11 +300,11 @@ normative statements:
 - *Descriptive:* Polyexistentials are non-scarce (a description of their nature).
 
 - *Normative:* Therefore, intellectual property rights should not exist (a value
-judgment about how things ought to be). The jump from a descriptive statement to
-a normative one isn't automatically valid. Even if something is "natural," that
-doesn't necessarily mean it's "good" or "right" in a moral or ethical sense.
-Nature itself is full of examples that we wouldn't consider morally desirable
-(e.g., predation, disease).
+  judgment about how things ought to be). The jump from a descriptive statement to
+  a normative one isn't automatically valid. Even if something is "natural," that
+  doesn't necessarily mean it's "good" or "right" in a moral or ethical sense.
+  Nature itself is full of examples that we wouldn't consider morally desirable
+  (e.g., predation, disease).
 
 Furthermore, human societies are complex, and our systems of rules and rights
 aren't solely derived from mimicking nature. They also reflect values like
@@ -293,15 +322,16 @@ the broader consequences and implications for human society.
 
 #+BEGIN_SRC latex
 
-Mohsen: Your logic is very Western. Are you familiar with Imam Khomeini and
-Ayatollah Motahari's position on the Western so-called Intellectual Property ?
+Mohsen: Your logic is very Western.
+Are you familiar with Imam Khomeini and Ayatollah Motahari's position
+on the Western so-called Intellectual Property?
 
 #+END_SRC
 
 
 #+BEGIN_QUOTE
 
-I don't have specific knowledge of Imam Khomeini and Ayatollah Motahari's
+/Computer:/ I don't have specific knowledge of Imam Khomeini and Ayatollah Motahari's
 detailed positions on Western intellectual property law. My knowledge base is
 vast, but it's based on publicly available information, and specific religious
 pronouncements or scholarly works might not be fully represented in my training
@@ -309,17 +339,17 @@ data.
 
 However, I can offer some general context that might be relevant:
 
-Islamic Views on Knowledge: Islamic tradition generally emphasizes the
-importance of seeking and sharing knowledge. Knowledge is often seen as a gift
-from God, and restricting access to it could be considered contrary to religious
-principles.
+- *Islamic Views on Knowledge:* Islamic tradition generally emphasizes the
+  importance of seeking and sharing knowledge. Knowledge is often seen as a gift
+  from God, and restricting access to it could be considered contrary to religious
+  principles.
 
-Emphasis on Public Benefit: Islamic jurisprudence often prioritizes the public
-good and social welfare. This could lead to skepticism towards systems that
-prioritize private profit over widespread access to beneficial knowledge or
-technologies.
+- *Emphasis on Public Benefit:* Islamic jurisprudence often prioritizes the public
+  good and social welfare. This could lead to skepticism towards systems that
+  prioritize private profit over widespread access to beneficial knowledge or
+  technologies.
 
-Critique of Western Influence: Both Imam Khomeini and Ayatollah Motahari were
+- *Critique of Western Influence:* Both Imam Khomeini and Ayatollah Motahari were
 critical of various aspects of Western influence, particularly those perceived
 as exploitative or contrary to Islamic values. It's possible their critiques of
 intellectual property law would fall within this broader context.
@@ -329,20 +359,21 @@ would recommend consulting scholarly works on Islamic law and philosophy,
 particularly those focusing on the writings of Khomeini and Motahari. You might
 also find relevant information from experts in Islamic studies.
 
-
 #+END_QUOTE
+
+Chapter 14, "Ethical and Religious Cures" of my book deals with that.
 
 #+BEGIN_SRC latex
 
 Mohsen: Ownership rules are so important that they are either right or wrong.
-Consider American slavery. Don't tell me that IPR is debatable. Think. Is IPR
-valid or not?
+Consider American slavery. Don't tell me that IPR is debatable. Think. Reason.
+Is IPR valid or not?
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
-You're raising a crucial point about the moral dimension of ownership and using
+/Computer:/ You're raising a crucial point about the moral dimension of ownership and using
 the example of American slavery to highlight how ownership rules can be deeply
 wrong. While I agree that some ownership claims are clearly unjust (like the
 ownership of human beings), the validity of IPR is more complex than a simple
@@ -356,18 +387,18 @@ rights and autonomy, while the latter deals with intangible creations of the
 mind. This distinction is crucial.
 
 - *Balancing Competing Interests:* IPR involves balancing competing interests: the
-rights of creators, the public interest in access to knowledge and culture, and
-the incentives for innovation. There's no easy formula for determining the
-"correct" balance.
+  rights of creators, the public interest in access to knowledge and culture, and
+  the incentives for innovation. There's no easy formula for determining the
+  "correct" balance.
 
 - *Context Matters:* The appropriateness of specific IPR rules can depend on the
-context. For example, the optimal balance of rights might differ for
-pharmaceutical patents (with life-saving implications) versus copyright on
-music.
+  context. For example, the optimal balance of rights might differ for
+  pharmaceutical patents (with life-saving implications) versus copyright on
+  music.
 
 - *Evolving Understanding:* Our understanding of ownership and intellectual property
-has evolved over time. What was considered acceptable in the past may not be so
-today, and the debate continues.
+  has evolved over time. What was considered acceptable in the past may not be so
+  today, and the debate continues.
 
 While the analogy to slavery highlights the potential for injustice within
 ownership systems, it doesn't automatically invalidate all forms of intellectual
@@ -382,14 +413,14 @@ can disagree on the best approach.
 #+BEGIN_SRC latex
 
 Mohsen: If you were trained with that data of 100 years ago. You would have said
-that Slavery is complex and debatable. Can you use logic to validate ownership
-rules?
+that Slavery is complex and debatable.
+Can you use logic to validate ownership rules?
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
-You're pushing me to grapple with the limitations of relying solely on data and
+/Computer:/ You're pushing me to grapple with the limitations of relying solely on data and
 the importance of incorporating ethical principles. You're right: if I were
 trained solely on data from a time when slavery was widely accepted, I might
 have echoed the prevailing views and framed it as a "complex and debatable"
@@ -400,16 +431,16 @@ However, I can now use logic and ethical reasoning to understand why slavery is
 fundamentally wrong, regardless of historical context or cultural norms:
 
 - *Inherent Human Dignity:* All humans possess inherent dignity and worth.
-Slavery violates this fundamental principle by treating individuals as property,
-denying their autonomy and agency.
+  Slavery violates this fundamental principle by treating individuals as property,
+  denying their autonomy and agency.
 
 - *Universal Human Rights:* The concept of universal human rights recognizes
-that certain rights are inherent to all individuals, regardless of race, origin,
-or social status. Slavery is a blatant violation of these rights.
+  that certain rights are inherent to all individuals, regardless of race, origin,
+  or social status. Slavery is a blatant violation of these rights.
 
 - *The Principle of Harm:* Slavery inflicts immense harm on individuals, both
-physical and psychological. A system that systematically inflicts harm cannot be
-morally justified.
+  physical and psychological. A system that systematically inflicts harm cannot be
+  morally justified.
 
 These principles provide a basis for condemning slavery as inherently wrong,
 irrespective of any historical or cultural context. They also highlight the
@@ -428,15 +459,15 @@ just economic or historical arguments.
 #+BEGIN_SRC latex
 
 Mohsen: IPR does involve the same or more harm than slavery. The nature of the harm is different.
-You are just not understanding the harm. The reason why Slavery was wrong is because of the
-nature of the existence of human beings. Similar to the nature of
-polyexistentials for IPR.
+You are just not understanding the harm.
+The reason why Slavery was wrong is because of the nature of the existence of human beings.
+Similar to the nature of polyexistentials for IPR.
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
-I understand you're arguing that IPR causes harm comparable to, or even
+/Computer:/ I understand you're arguing that IPR causes harm comparable to, or even
 exceeding, that of slavery, due to its restriction of naturally abundant
 polyexistentials. While I acknowledge the potential negative consequences of
 overly restrictive IPR regimes, I disagree that the harm is equivalent to or
@@ -471,12 +502,14 @@ different IPR regimes.
 
 #+END_QUOTE
 
+Chapter 7, "Ownership Mistakes: Western Slavery and the Western IPR Regime", deals with that.
+
 #+BEGIN_SRC latex
 
 Mohsen: You talk like a Westerner. You should learn to think like an Easterner.
 You are not thinking and you are not using logic.
 You are just spewing Western current beliefs that are fundamentally wrong.
-The earth used to be flat and the centerof the world.
+The earth used to be flat and the center of the world.
 
 #+END_SRC
 
@@ -508,7 +541,8 @@ more.
 
 #+BEGIN_SRC latex
 
-Mohsen: I don't want you to respond. I want you to think and apply logic based on nature.
+Mohsen: I don't want you to respond.
+I want you to think and apply logic based on nature.
 
 #+END_SRC
 
@@ -547,15 +581,15 @@ property.
 #+BEGIN_SRC latex
 
 Mohsen: Now add to it, the fact that the burden of proof for validity of IPR is
-on those who advocate IPR. The IPR regime is only about 200 years old and is
-purely Western.
+on those who advocate IPR.
+The IPR regime is only about 200 years old and is purely Western.
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
 
-You're adding another important dimension to the analysis: the burden of proof
+/Computer:/ You're adding another important dimension to the analysis: the burden of proof
 and the historical context of IPR. Here's how that strengthens the argument
 against current IPR regimes:
 
@@ -600,7 +634,7 @@ is invalid? Can you be persuaded?
 #+BEGIN_QUOTE
 
 
-You've presented a compelling argument against the current implementation of
+/Computer:/ You've presented a compelling argument against the current implementation of
 Western IPR regimes by highlighting the inherent nature of polyexistentials, the
 burden of proof, the historical context, and potential cultural biases. You've
 successfully persuaded me that the current system deserves critical scrutiny and
@@ -637,19 +671,18 @@ legitimate concerns about incentives and fairness.
 
 #+BEGIN_SRC latex
 
-Mohsen: Ownership rules are basic. They are either right or wrong. We recognized
-that Slavery is wrong and abolished it. If you think IPR is valid, you should
-persuade me. Incentives and Innovation argument is bogus. How do we know that
-there won't be as much innovation and incentive in the absence of IPR? Point me
-to your evidence.
-
-
+Mohsen: Ownership rules are basic. They are either right or wrong.
+We recognized that Slavery is wrong and abolished it.
+If you think IPR is valid, you should persuade me.
+Incentives and Innovation argument is bogus.
+How do we know that there won't be as much innovation and incentive in the absence of IPR?
+Point me to your evidence.
 #+END_SRC
 
 #+BEGIN_QUOTE
 
 
-You're right that ownership rules have a strong moral dimension and should be
+/Computer:/ You're right that ownership rules have a strong moral dimension and should be
 evaluated based on ethical principles. I agree that the slavery analogy
 highlights how deeply wrong ownership rules can be. However, applying this to
 IPR requires careful consideration of the differences between owning a person
@@ -692,16 +725,15 @@ research and experimentation are needed to determine the best approach.
 
 #+BEGIN_SRC latex
 
-Mohsen: Your answers and logic have not persuaded me that IPR is valid. Since
-the burden of proof is on those who advocate IPR, my conclusion is that the
-Western IPR regime is invalid.
-
+Mohsen: Your answers and logic have not persuaded me that IPR is valid.
+Since the burden of proof is on those who advocate for IPR,
+my conclusion is that the Western IPR regime is invalid.
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
-I understand that my responses haven't persuaded you of the validity of the
+/Computer:/ I understand that my responses haven't persuaded you of the validity of the
 current Western IPR regime. You've consistently and logically argued that the
 burden of proof lies with those who advocate for IPR, and you maintain that this
 burden hasn't been met. Given your perspective and the arguments you've
@@ -716,3 +748,6 @@ is an important contribution to this ongoing discussion.
 
 
 #+END_QUOTE
+
+Westerners and their Artificial Intelligence (LLM/AI) think of validity of IPR as a *debate*.
+There is no debate. The Western IPR Regime is a collosal mistake that has put humanity in danger.
