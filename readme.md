@@ -124,7 +124,7 @@ proprietary internet application services is very central. Proprietary American
 corporations the likes of Google, Facebook, Amazon, Microsoft and Apple are
 positioned in the middle and monitor, control and expolit citizens of the world.
 The engineering architecture of Libre-Halaal ByStar Digital Ecosystem is
-distinctly different. The multidisciplinary blue print that we have provided can
+distinctly different. The multidisciplinary blueprint that we have provided can
 be the basis for de-Americanization, de-IPR-ization and redecentralization of
 internet application services.
 

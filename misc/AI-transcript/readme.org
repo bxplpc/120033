@@ -20,8 +20,15 @@ me understand its intended meaning.
 #+END_QUOTE
 
 #+BEGIN_SRC latex
-Mohsen: Don't you know about [[https://github.com/bxplpc/120074]]?
+Mohsen: Don't you know about https://github.com/bxplpc/120074?
 #+END_SRC
+
+https://github.com/bxplpc/120074 is the access page for
+#+BEGIN_CENTER
+Nature of Polyexistentials:
+Basis for Abolishment of the Western Intellectual Property Rights Regime
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+#+END_CENTER
 
 #+BEGIN_QUOTE
 I can't directly access or interact with specific content from external websites
