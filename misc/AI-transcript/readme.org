@@ -455,7 +455,7 @@ Here's why:
   does not have the same direct and devastating impact on individual lives and
   well-being.
 
-- *Potential for Mitigation: There are ongoing debates and efforts to reform IPR
+- *Potential for Mitigation:* There are ongoing debates and efforts to reform IPR
   systems to better balance the rights of creators with public access. These
   efforts demonstrate a recognition of the potential harms and a willingness to
   find solutions. The abolition of slavery, on the other hand, required a
@@ -473,17 +473,17 @@ different IPR regimes.
 
 #+BEGIN_SRC latex
 
-You talk like a Westerner. You should learn to think like an Easterner. You are
-not thinking and you are not using logic. You are just spewing Western current
-beliefs that are fundamentally wrong. The earth used to be flat and the center
-of the world.
+Mohsen: You talk like a Westerner. You should learn to think like an Easterner.
+You are not thinking and you are not using logic.
+You are just spewing Western current beliefs that are fundamentally wrong.
+The earth used to be flat and the centerof the world.
 
 #+END_SRC
 
 #+BEGIN_QUOTE
 
 
-I understand your frustration and the perception that my responses reflect a
+/Computer:/ I understand your frustration and the perception that my responses reflect a
 Western bias. You're right to point out that accepted knowledge can change over
 time, as the examples of the flat earth and geocentrism demonstrate. However, my
 goal is to provide reasoned and balanced responses based on the vast amount of
@@ -514,7 +514,7 @@ Mohsen: I don't want you to respond. I want you to think and apply logic based o
 
 #+BEGIN_QUOTE
 
-You're asking me to prioritize logical reasoning based on observed natural
+/Computer:/ You're asking me to prioritize logical reasoning based on observed natural
 phenomena, similar to the scientific method. Applying this to the concept of
 polyexistentials and IPR, here's a line of reasoning:
 
