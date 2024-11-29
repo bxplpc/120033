@@ -3,9 +3,9 @@
 After reading "You Exist In The Long Context" -- https://thelongcontext.com/, I
 decided to create a context for my book:
 #+BEGIN_HTML
-Nature of Polyexistentials:<br>
-Basis for Abolishment of the Western Intellectual Property Rights Regime<br>
-And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+<b>Nature of Polyexistentials:</b><br>
+<b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
 #+END_HTML
 
 Then, I used that as a basis for a debate on the
@@ -42,12 +42,12 @@ Mohsen: Don't you know about https://github.com/bxplpc/120074?
 
 https://github.com/bxplpc/120074 is an access page for my book:
 #+BEGIN_HTML
-Nature of Polyexistentials:<br>
-Basis for Abolishment of the Western Intellectual Property Rights Regime<br>
-And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+<b>Nature of Polyexistentials:</b><br>
+<b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
 #+END_HTML
 
-Which contains a short description.
+which contains a short description.
 
 
 #+BEGIN_QUOTE
