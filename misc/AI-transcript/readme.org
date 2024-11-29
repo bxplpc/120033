@@ -2,11 +2,11 @@
 
 After reading "You Exist In The Long Context" -- https://thelongcontext.com/, I
 decided to create a context for my book:
-#+BEGIN_CENTER
-Nature of Polyexistentials:\\
-Basis for Abolishment of the Western Intellectual Property Rights Regime\\
-And Introduction of the Libre-Halaal ByStar Digital Ecosystem\\
-#+END_CENTER
+#+BEGIN_HTML
+Nature of Polyexistentials:<br>
+Basis for Abolishment of the Western Intellectual Property Rights Regime<br>
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+#+END_HTML
 Then, I used that as a basis for a debate on the
 validity of the Western IPR Regime with the LLM/AI (Large Language Model / Artificial Intelligence).
 
