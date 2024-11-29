@@ -7,6 +7,7 @@ Nature of Polyexistentials:<br>
 Basis for Abolishment of the Western Intellectual Property Rights Regime<br>
 And Introduction of the Libre-Halaal ByStar Digital Ecosystem
 #+END_HTML
+
 Then, I used that as a basis for a debate on the
 validity of the Western IPR Regime with the LLM/AI (Large Language Model / Artificial Intelligence).
 
@@ -40,12 +41,13 @@ Mohsen: Don't you know about https://github.com/bxplpc/120074?
 #+END_SRC
 
 https://github.com/bxplpc/120074 is an access page for my book:
-#+BEGIN_CENTER
-Nature of Polyexistentials:\\
-Basis for Abolishment of the Western Intellectual Property Rights Regime\\
-And Introduction of the Libre-Halaal ByStar Digital Ecosystem\\
-#+END_CENTER
-It contains a short description.
+#+BEGIN_HTML
+Nature of Polyexistentials:<br>
+Basis for Abolishment of the Western Intellectual Property Rights Regime<br>
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+#+END_HTML
+
+Which contains a short description.
 
 
 #+BEGIN_QUOTE
