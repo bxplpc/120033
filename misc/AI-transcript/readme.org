@@ -10,7 +10,7 @@ Mohsen: What is the Nature of Polyexistentials?
 #+END_EXAMPLE
 
 #+BEGIN_QUOTE
-Computer: "Polyexistentials" isn't a standard philosophical or scientific term.
+/Computer:/ "Polyexistentials" isn't a standard philosophical or scientific term.
 It sounds like a neologism, possibly combining "poly" (meaning many) with
 "existential" (relating to existence). Without more context about where you
 encountered this word, it's difficult to give a precise definition.
@@ -25,9 +25,9 @@ Mohsen: Don't you know about https://github.com/bxplpc/120074?
 
 https://github.com/bxplpc/120074 is an access page for my book:
 #+BEGIN_CENTER
-Nature of Polyexistentials:
-Basis for Abolishment of the Western Intellectual Property Rights Regime
-And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+Nature of Polyexistentials:\\
+Basis for Abolishment of the Western Intellectual Property Rights Regime\\
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem\\
 #+END_CENTER
 
 #+BEGIN_QUOTE
@@ -194,10 +194,11 @@ It depends on how you weigh the competing values and considerations involved.
 #+END_QUOTE
 
 #+BEGIN_SRC latex
-Mohsen: You say: Without the potential for exclusive rights,
-the argument goes, there would be less motivation to invest time and resources
-in creating new knowledge, art, or inventions. -- But I say that is baseless.
-Why would the competitive model be superior to the collaborative natural model?
+Mohsen: You say: Without the potential for exclusive rights, the argument goes,
+there would be less motivation to invest time and resources in creating new
+knowledge, art, or inventions. -- But I say that is baseless. Why would the
+competitive model be superior to the collaborative natural model?
+
 #+END_SRC latex
 
 #+BEGIN_QUOTE
@@ -209,36 +210,38 @@ Here's a breakdown of both sides:
 
 Arguments for Competitive/Exclusive Rights Model:
 
-- *Incentive Structure:* The traditional argument is that the potential for profit
-motivates individuals and companies to invest in risky and expensive creative
-endeavors. Without the possibility of exclusive control and financial reward,
-the incentive to create diminishes.
+- *Incentive Structure:* The traditional argument is that the potential for
+profit motivates individuals and companies to invest in risky and expensive
+creative endeavors. Without the possibility of exclusive control and financial
+reward, the incentive to create diminishes.
 
 - *Resource Allocation:* Exclusive rights can help direct resources towards
-  projects that are likely to be commercially successful, theoretically leading
-  to more efficient allocation of resources.
+projects that are likely to be commercially successful, theoretically leading to
+more efficient allocation of resources.
 
-- *Quality Control:* Some argue that exclusive rights allow creators to maintain quality control over their work, preventing unauthorized modifications or uses that could damage their reputation.
+- *Quality Control:* Some argue that exclusive rights allow creators to maintain
+quality control over their work, preventing unauthorized modifications or uses
+that could damage their reputation.
 
 Arguments for Collaborative/Open Models:
 
-- *Faster Innovation:* Open collaboration can accelerate the pace of innovation by
-allowing multiple individuals and groups to build upon each other's work. The
+- *Faster Innovation:* Open collaboration can accelerate the pace of innovation
+by allowing multiple individuals and groups to build upon each other's work. The
 open-source software movement is a prime example of this.
 
-- *Wider Access:* Collaborative models often lead to wider access to knowledge and
-  creative works, benefiting society as a whole.
+- *Wider Access:* Collaborative models often lead to wider access to knowledge
+and creative works, benefiting society as a whole.
 
 - *Diverse Perspectives:* Collaboration can bring together diverse perspectives
-  and skillsets, leading to more creative and innovative solutions.
+and skillsets, leading to more creative and innovative solutions.
 
 - *Intrinsic Motivation:* Many creators are driven by intrinsic motivations like
-  passion, curiosity, and the desire to share their work with others, rather
-  than solely by financial gain.
+passion, curiosity, and the desire to share their work with others, rather than
+solely by financial gain.
 
-- *Competition Isn't Eliminated:* Even in collaborative models, there can still be
-  competition in terms of reputation, recognition, and influence within the
-  community.
+- *Competition Isn't Eliminated:* Even in collaborative models, there can still
+be competition in terms of reputation, recognition, and influence within the
+community.
 
 The Key Question:
 
@@ -247,55 +250,131 @@ outweigh the potential benefits of open collaboration. There's no single answer
 that applies to all situations. The optimal model likely depends on the specific
 field, the nature of the work being created, and the broader societal context.
 The debate continues, and both sides have valid points.
+
 #+END_QUOTE
 
 #+BEGIN_EXAMPLE
-Mohsen: You seem to think that Western arguments are more valid than nature.
-Polyexistence is rooted in nature.
-The rules of nature are more valid than human arguments. Isn't that the case?
+
+Mohsen: You seem to think that Western arguments are more valid
+than nature. Polyexistence is rooted in nature. The rules of nature are more
+valid than human arguments. Isn't that the case?
+
 #+END_EXAMPLE
 
 #+BEGIN_QUOTE
 
-You're right to point out that polyexistentials, as defined, are rooted in the observation of how information behaves – which we could consider a "natural" characteristic. However, it's important to distinguish between descriptive and normative statements:
+You're right to point out that polyexistentials, as defined, are rooted in the
+observation of how information behaves – which we could consider a "natural"
+characteristic. However, it's important to distinguish between descriptive and
+normative statements:
 
-Descriptive: Polyexistentials are non-scarce (a description of their nature).
-Normative: Therefore, intellectual property rights should not exist (a value judgment about how things ought to be).
-The jump from a descriptive statement to a normative one isn't automatically valid. Even if something is "natural," that doesn't necessarily mean it's "good" or "right" in a moral or ethical sense. Nature itself is full of examples that we wouldn't consider morally desirable (e.g., predation, disease).
+- *Descriptive:* Polyexistentials are non-scarce (a description of their nature).
 
-Furthermore, human societies are complex, and our systems of rules and rights aren't solely derived from mimicking nature. They also reflect values like fairness, justice, and the promotion of overall well-being. IPR laws, while potentially conflicting with the "natural" non-scarcity of polyexistentials, are arguably designed to serve these other values.
+- *Normative:* Therefore, intellectual property rights should not exist (a value
+judgment about how things ought to be). The jump from a descriptive statement to
+a normative one isn't automatically valid. Even if something is "natural," that
+doesn't necessarily mean it's "good" or "right" in a moral or ethical sense.
+Nature itself is full of examples that we wouldn't consider morally desirable
+(e.g., predation, disease).
 
-Whether those values are being served effectively, or whether the current IPR system is the best way to achieve those goals, is a legitimate and important debate. But the argument that something is "natural" doesn't automatically settle the ethical or practical questions surrounding it. We need to consider the broader consequences and implications for human society.
+Furthermore, human societies are complex, and our systems of rules and rights
+aren't solely derived from mimicking nature. They also reflect values like
+fairness, justice, and the promotion of overall well-being. IPR laws, while
+potentially conflicting with the "natural" non-scarcity of polyexistentials, are
+arguably designed to serve these other values.
 
-Mohsen: Your logic is very Western. Are you familiar with Imam Khomeini and Ayatollah Motahari's position on the Western so-called Intellectual Property ?
+Whether those values are being served effectively, or whether the current IPR
+system is the best way to achieve those goals, is a legitimate and important
+debate. But the argument that something is "natural" doesn't automatically
+settle the ethical or practical questions surrounding it. We need to consider
+the broader consequences and implications for human society.
 
-I don't have specific knowledge of Imam Khomeini and Ayatollah Motahari's detailed positions on Western intellectual property law. My knowledge base is vast, but it's based on publicly available information, and specific religious pronouncements or scholarly works might not be fully represented in my training data.
+#+END_QUOTE
+
+#+BEGIN_SRC latex
+
+Mohsen: Your logic is very Western. Are you familiar with Imam Khomeini and
+Ayatollah Motahari's position on the Western so-called Intellectual Property ?
+
+#+END_SRC
+
+
+#+BEGIN_QUOTE
+
+I don't have specific knowledge of Imam Khomeini and Ayatollah Motahari's
+detailed positions on Western intellectual property law. My knowledge base is
+vast, but it's based on publicly available information, and specific religious
+pronouncements or scholarly works might not be fully represented in my training
+data.
 
 However, I can offer some general context that might be relevant:
 
-Islamic Views on Knowledge: Islamic tradition generally emphasizes the importance of seeking and sharing knowledge. Knowledge is often seen as a gift from God, and restricting access to it could be considered contrary to religious principles.
+Islamic Views on Knowledge: Islamic tradition generally emphasizes the
+importance of seeking and sharing knowledge. Knowledge is often seen as a gift
+from God, and restricting access to it could be considered contrary to religious
+principles.
 
-Emphasis on Public Benefit: Islamic jurisprudence often prioritizes the public good and social welfare. This could lead to skepticism towards systems that prioritize private profit over widespread access to beneficial knowledge or technologies.
+Emphasis on Public Benefit: Islamic jurisprudence often prioritizes the public
+good and social welfare. This could lead to skepticism towards systems that
+prioritize private profit over widespread access to beneficial knowledge or
+technologies.
 
-Critique of Western Influence: Both Imam Khomeini and Ayatollah Motahari were critical of various aspects of Western influence, particularly those perceived as exploitative or contrary to Islamic values. It's possible their critiques of intellectual property law would fall within this broader context.
+Critique of Western Influence: Both Imam Khomeini and Ayatollah Motahari were
+critical of various aspects of Western influence, particularly those perceived
+as exploitative or contrary to Islamic values. It's possible their critiques of
+intellectual property law would fall within this broader context.
 
-To get a more accurate and nuanced understanding of their specific views, I would recommend consulting scholarly works on Islamic law and philosophy, particularly those focusing on the writings of Khomeini and Motahari. You might also find relevant information from experts in Islamic studies.
+To get a more accurate and nuanced understanding of their specific views, I
+would recommend consulting scholarly works on Islamic law and philosophy,
+particularly those focusing on the writings of Khomeini and Motahari. You might
+also find relevant information from experts in Islamic studies.
 
-Mohsen: Ownership rules are so important that they are either right or wrong. Consider American slavery. Don't tell me that IPR is debatable. Think. Is IPR valid or not?
 
-You're raising a crucial point about the moral dimension of ownership and using the example of American slavery to highlight how ownership rules can be deeply wrong. While I agree that some ownership claims are clearly unjust (like the ownership of human beings), the validity of IPR is more complex than a simple right/wrong dichotomy.
+#+END_QUOTE
+
+#+BEGIN_SRC latex
+
+Mohsen: Ownership rules are so important that they are either right or wrong.
+Consider American slavery. Don't tell me that IPR is debatable. Think. Is IPR
+valid or not?
+
+#+END_SRC
+
+#+BEGIN_QUOTE
+
+You're raising a crucial point about the moral dimension of ownership and using
+the example of American slavery to highlight how ownership rules can be deeply
+wrong. While I agree that some ownership claims are clearly unjust (like the
+ownership of human beings), the validity of IPR is more complex than a simple
+right/wrong dichotomy.
 
 Here's why:
 
-Different Types of Ownership: Owning a person is fundamentally different from owning an idea or a creative work. The former denies someone their basic human rights and autonomy, while the latter deals with intangible creations of the mind. This distinction is crucial.
+Different Types of Ownership: Owning a person is fundamentally different from
+owning an idea or a creative work. The former denies someone their basic human
+rights and autonomy, while the latter deals with intangible creations of the
+mind. This distinction is crucial.
 
-Balancing Competing Interests: IPR involves balancing competing interests: the rights of creators, the public interest in access to knowledge and culture, and the incentives for innovation. There's no easy formula for determining the "correct" balance.
+- *Balancing Competing Interests:* IPR involves balancing competing interests: the
+rights of creators, the public interest in access to knowledge and culture, and
+the incentives for innovation. There's no easy formula for determining the
+"correct" balance.
 
-Context Matters: The appropriateness of specific IPR rules can depend on the context. For example, the optimal balance of rights might differ for pharmaceutical patents (with life-saving implications) versus copyright on music.
+- *Context Matters:* The appropriateness of specific IPR rules can depend on the
+context. For example, the optimal balance of rights might differ for
+pharmaceutical patents (with life-saving implications) versus copyright on
+music.
 
-Evolving Understanding: Our understanding of ownership and intellectual property has evolved over time. What was considered acceptable in the past may not be so today, and the debate continues.
+- *Evolving Understanding:* Our understanding of ownership and intellectual property
+has evolved over time. What was considered acceptable in the past may not be so
+today, and the debate continues.
 
-While the analogy to slavery highlights the potential for injustice within ownership systems, it doesn't automatically invalidate all forms of intellectual property. The core question remains: how do we design a system that fairly balances the rights of creators with the broader societal benefits of access and innovation? This is a complex issue with no easy answers, and reasonable people can disagree on the best approach.
+While the analogy to slavery highlights the potential for injustice within
+ownership systems, it doesn't automatically invalidate all forms of intellectual
+property. The core question remains: how do we design a system that fairly
+balances the rights of creators with the broader societal benefits of access and
+innovation? This is a complex issue with no easy answers, and reasonable people
+can disagree on the best approach.
 
 
 #+END_QUOTE
@@ -306,7 +385,7 @@ Mohsen: If you were trained with that data of 100 years ago. You would have said
 that Slavery is complex and debatable. Can you use logic to validate ownership
 rules?
 
-#+END_SRC latex
+#+END_SRC
 
 #+BEGIN_QUOTE
 
@@ -320,13 +399,17 @@ systems.
 However, I can now use logic and ethical reasoning to understand why slavery is
 fundamentally wrong, regardless of historical context or cultural norms:
 
-- *Inherent Human Dignity:* All humans possess inherent dignity and worth. Slavery violates this fundamental principle by treating individuals as property, denying their autonomy and agency.
+- *Inherent Human Dignity:* All humans possess inherent dignity and worth.
+Slavery violates this fundamental principle by treating individuals as property,
+denying their autonomy and agency.
 
-- *Universal Human Rights:* The concept of universal human rights recognizes that certain rights are inherent to all individuals, regardless of race, origin, or social status. Slavery is a blatant violation of these rights.
+- *Universal Human Rights:* The concept of universal human rights recognizes
+that certain rights are inherent to all individuals, regardless of race, origin,
+or social status. Slavery is a blatant violation of these rights.
 
 - *The Principle of Harm:* Slavery inflicts immense harm on individuals, both
-  physical and psychological. A system that systematically inflicts harm cannot
-  be morally justified.
+physical and psychological. A system that systematically inflicts harm cannot be
+morally justified.
 
 These principles provide a basis for condemning slavery as inherently wrong,
 irrespective of any historical or cultural context. They also highlight the
@@ -344,8 +427,8 @@ just economic or historical arguments.
 
 #+BEGIN_SRC latex
 
-Mohsen: IPR does involve the same or more harm than slavery. You are just not
-understanding the harm. The reason why Slavery was wrong is because of the
+Mohsen: IPR does involve the same or more harm than slavery. The nature of the harm is different.
+You are just not understanding the harm. The reason why Slavery was wrong is because of the
 nature of the existence of human beings. Similar to the nature of
 polyexistentials for IPR.
 
@@ -372,7 +455,7 @@ Here's why:
   does not have the same direct and devastating impact on individual lives and
   well-being.
 
-- *Potential for Mitigation:* There are ongoing debates and efforts to reform IPR
+- *Potential for Mitigation: There are ongoing debates and efforts to reform IPR
   systems to better balance the rights of creators with public access. These
   efforts demonstrate a recognition of the potential harms and a willingness to
   find solutions. The abolition of slavery, on the other hand, required a
