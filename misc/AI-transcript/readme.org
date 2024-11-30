@@ -34,7 +34,8 @@ me understand its intended meaning.
 #+END_QUOTE
 
 So, we know that my book has not been part of its training.
-My book is relatively new, so that would be normal.
+My book is relatively new, hence that was kind of expected.
+Thus, I need to establish a minimally longish context for the book.
 
 #+BEGIN_SRC latex
 Mohsen: Don't you know about https://github.com/bxplpc/120074?
