@@ -323,9 +323,9 @@ the broader consequences and implications for human society.
 #+END_QUOTE
 
 #+BEGIN_SRC latex
-In the SHORT DESCRIPTION, I provided you a key concept. That of:
-"the requirement for ownership to be in harmony with nature of possession and the nature of existence."
- When I speak of nature, I am referring to that nature.
+Mohsen: In the SHORT DESCRIPTION, I provided you a key concept. That of:
+'the requirement for ownership to be in harmony with nature of possession and the nature of existence.'
+When I speak of nature, I am referring to that nature.
 #+END_SRC
 
 #+BEGIN_QUOTE
