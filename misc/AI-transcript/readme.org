@@ -5,7 +5,7 @@ decided to create a context for my book:
 #+BEGIN_HTML
 <b>Nature of Polyexistentials:</b><br>
 <b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
-<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br><br>
 #+END_HTML
 
 Then, I used that as a basis for a debate on the
@@ -45,7 +45,7 @@ https://github.com/bxplpc/120074 is an access page for my book:
 #+BEGIN_HTML
 <b>Nature of Polyexistentials:</b><br>
 <b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
-<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br><br>
 #+END_HTML
 
 which contains a short description.
