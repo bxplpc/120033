@@ -177,10 +177,10 @@ approach to knowledge and information.
 
 The summary is reasonable. But it is missing a key concept. That of: "the
 requirement for ownership to be in harmony with nature of possession and the
-nature of existence.
+nature of existence."
 
 #+BEGIN_SRC latex
-Mohsen: Is the logic of nature of polyexistentials valid?
+Mohsen: Is the logic of Nature of Polyexistentials valid?
 #+END_SRC
 
 #+BEGIN_QUOTE
@@ -319,6 +319,43 @@ system is the best way to achieve those goals, is a legitimate and important
 debate. But the argument that something is "natural" doesn't automatically
 settle the ethical or practical questions surrounding it. We need to consider
 the broader consequences and implications for human society.
+
+#+END_QUOTE
+
+#+BEGIN_SRC latex
+In the SHORT DESCRIPTION, I provided you a key concept. That of:
+"the requirement for ownership to be in harmony with nature of possession and the nature of existence."
+ When I speak of nature, I am referring to that nature.
+#+END_SRC
+
+#+BEGIN_QUOTE
+
+/Computer:/ You're referring to the key concept from the book description: "the requirement
+for ownership to be in harmony with the nature of possession and the nature of
+existence." This concept emphasizes aligning ownership rules with the inherent
+properties of the thing being owned. In the context of polyexistentials, this
+means recognizing their non-scarce nature and designing ownership systems that
+don't contradict this fundamental property.
+
+Applying this principle, the argument against traditional IPR becomes stronger:
+
+1) *Nature of Polyexistentials:* Polyexistentials are non-rivalrous (multiple people
+   can use them simultaneously without diminishing their value) and easily
+   replicable.
+
+2) *Nature of Possession:* Possessing a copy of a polyexistential doesn't prevent
+   others from possessing their own copies. Unlike physical objects, possession of
+   a polyexistential isn't exclusive.
+
+3) *Harmony of Ownership:* An ownership system that restricts access to and
+   replication of polyexistentials is inherently in conflict with their nature. It
+   creates artificial scarcity where none exists naturally.
+
+Therefore, according to this principle, the current Western IPR regime, which
+relies on restricting access and controlling replication, is not in harmony with
+the nature of polyexistentials and their possession. This strengthens the
+argument for alternative models that embrace the inherent shareability and
+abundance of information and creative works.
 
 #+END_QUOTE
 
