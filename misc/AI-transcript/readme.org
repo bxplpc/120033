@@ -5,7 +5,7 @@ decided to create a context for my book:
 #+BEGIN_HTML
 <b>Nature of Polyexistentials:</b><br>
 <b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
-<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br><br>
 #+END_HTML
 
 Then, I used that as a basis for a debate on the
@@ -16,6 +16,9 @@ It proved to be very interesting! LLM/AI absorbed my context for the new concept
 based on that concept. To the extent that one can say it thinks, and to the
 extent that it is able to absorb the longish context, it thinks and talks like a
 Westerner.
+
+This interaction demonstartes that the notion of nature of polyexistetials can be quite
+persuasive to any type of intelligence that is capable of following logic and reason.
 
 Here is the transcript, which also includes some commentary with various pointers to the book:
 
@@ -34,7 +37,8 @@ me understand its intended meaning.
 #+END_QUOTE
 
 So, we know that my book has not been part of its training.
-My book is relatively new, so that would be normal.
+My book is relatively new, hence that was kind of expected.
+Thus, I need to establish a minimally longish context for the book.
 
 #+BEGIN_SRC latex
 Mohsen: Don't you know about https://github.com/bxplpc/120074?
@@ -44,7 +48,7 @@ https://github.com/bxplpc/120074 is an access page for my book:
 #+BEGIN_HTML
 <b>Nature of Polyexistentials:</b><br>
 <b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
-<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br>
+<b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br><br>
 #+END_HTML
 
 which contains a short description.
@@ -323,9 +327,9 @@ the broader consequences and implications for human society.
 #+END_QUOTE
 
 #+BEGIN_SRC latex
-In the SHORT DESCRIPTION, I provided you a key concept. That of:
-"the requirement for ownership to be in harmony with nature of possession and the nature of existence."
- When I speak of nature, I am referring to that nature.
+Mohsen: In the SHORT DESCRIPTION, I provided you a key concept. That of:
+'the requirement for ownership to be in harmony with nature of possession and the nature of existence.'
+When I speak of nature, I am referring to that nature.
 #+END_SRC
 
 #+BEGIN_QUOTE
