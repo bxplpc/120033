@@ -159,7 +159,7 @@ solutions.
 #+END_SRC
 
 #+BEGIN_QUOTE
-/Computer:/  description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
+/Computer:/  This description introduces "polyexistentials" as a key concept for critiquing Intellectual Property Rights (IPR). Here's a breakdown:
 
 - *Polyexistentials vs. Monoexistentials:* The core idea is that things like
   knowledge, ideas, and information are polyexistential – they can exist in
