@@ -1,26 +1,40 @@
-#+TITLE: LLM/AI's Take on Invalidity of Intellectual Property Based on Nature of Polyexistentials
+#+TITLE: LLM/AI's Take on the Invalidity of Intellectual Property Based on the Nature of Polyexistentials
+
+The concept of polyexistentials naturally leads to the obvious conclusion that
+the Western Intellectual Property Rights (IPR) regime is fundamentally flawed.
+The logic inherent in the nature of polyexistentials is straightforward, yet
+many Americanists are reluctant to explore its implications. This hesitance
+stems from their investment in the IPR model, as illustrated by Upton Sinclair's
+observation: "It is difficult to get a man to understand something when his
+salary depends upon his not understanding it."
+
+Given that machines are not yet self-aware and lack self-interest, what would happen
+if we presented the concept of polyexistentials to Large Language Models of
+Artificial Intelligence (LLM/AI)? Could they follow the basic logic and arrive
+at unbiased conclusions?
 
 After reading "You Exist In The Long Context" -- https://thelongcontext.com/, I
 decided to create a context for my book:
+
 #+BEGIN_HTML
 <b>Nature of Polyexistentials:</b><br>
 <b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b><br>
 <b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b><br><br>
 #+END_HTML
 
-Then, I used that as a basis for a debate on the
-validity of the Western IPR Regime with the LLM/AI (Large Language Model / Artificial Intelligence).
+Using this framework, I initiated a debate with LLM/AI on the validity of the
+Western IPR regime.
 
-It proved to be very interesting! LLM/AI absorbed my context for the new concept of
-"Polyexistentials" relatively well. It then tried to apply logic and reason
-based on that concept. To the extent that one can say it thinks, and to the
-extent that it is able to absorb the longish context, it thinks and talks like a
-Westerner.
+The results were fascinating. The LLM/AI absorbed my contextualization of
+"polyexistentials" remarkably well and applied logic and reason based on this
+concept. To the extent that it can be said to "think," and given its ability to
+process extended contexts, its reasoning echoed Western perspectives.
 
-This interaction demonstartes that the notion of nature of polyexistetials can be quite
-persuasive to any type of intelligence that is capable of following logic and reason.
+This interaction demonstrates that the concept of polyexistentials is highly
+compelling to any form of intelligence capable of logical and reasoned thought.
 
-Here is the transcript, which also includes some commentary with various pointers to the book:
+Below is the transcript, including commentary and references to relevant
+sections of the book:
 
 #+BEGIN_EXAMPLE
 Mohsen: What is the Nature of Polyexistentials?
