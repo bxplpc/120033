@@ -37,6 +37,33 @@ Below is the transcript, including commentary and references to relevant
 sections of the book:
 
 #+BEGIN_EXAMPLE
+Mohsen: what is your name, model, manufacturer and version?
+#+END_EXAMPLE
+
+#+BEGIN_QUOTE
+/Computer:/ I am a large language model, created by Google.
+#+END_QUOTE
+
+#+BEGIN_EXAMPLE
+Mohsen: How about name and version?
+#+END_EXAMPLE
+
+#+BEGIN_QUOTE
+/Computer:/ I do not have a name or version number.
+Large language models are constantly evolving and updating,
+so specific version numbers wouldn't be meaningful.
+You can think of me as always being the latest version.
+#+END_QUOTE
+
+
+Such a response, of course, is nonsensical.
+
+This is an interaction that occurred on Sunday December 1, 2024 in the
+interaction box of: \url{https://thelongcontext.com/}. The large language model
+used is that of Gemini Pro 1.5 whose training dates to Wednesday, November
+1, 2023.
+
+#+BEGIN_EXAMPLE
 Mohsen: What is the Nature of Polyexistentials?
 #+END_EXAMPLE
 
