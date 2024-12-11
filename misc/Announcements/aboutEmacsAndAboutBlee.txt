@@ -1,0 +1,66 @@
+About Emacs and About Blee
+
+Dear Colleague,
+
+More than 40 years ago, Emacs emerged as a highly customizable text editor,
+built around a powerful Lisp engine. Emacs is among the oldest free and open
+source projects still under development. I started using Emacs at around 1986.
+
+Over the decades, Emacs has become a platform where engineers have integrated
+support for virtually everything. Its foundational abstractions have made it a
+uniquely convivial and versatile usage environment. VS Code is only comparable
+to a subset of Emacs. During this journey, Emacs has fostered a variety of
+cultures and subcultures around its extensions, configurations, and
+customizations.
+
+One notable example of this communal spirit is EmacsConf, a yearly virtual
+conference dedicated to celebrating Emacs and Emacs Lisp. EmacsConf-2024 took
+place on December 7th and featured a wide range of fascinating presentations.
+Recordings of these talks, including their Q&A sessions, are now available at
+emacsconf. org.
+
+My own contribution to this year's conference was a talk titled:
+
+ "About Blee: Enveloping Our Own Autonomy-Directed Digital Ecosystem with Emacs"
+
+The video recording is available on youtube:  https://www.youtube.com/watch?v=wa6tjBXZiTU
+
+The access page at EmacsConf is:  https://emacsconf.org/2024/talks/blee/
+
+To better understand Blee, let’s break down the subtitle of my presentation:
+
+   "Enveloping Our Own Autonomy Directed Digital Ecosystem With Emacs."
+
+  - "Enveloping": Blee is designed to fully integrate and encapsulate usage of
+     an entire digital ecosystem.
+
+  - "Our Own Autonomy-Directed Digital Ecosystem": Unlike the proprietary
+     ecosystems of Google, Microsoft, Meta, Apple, and Amazon, Blee is part of
+     the Libre-Halaal ByStar Digital Ecosystem. ByStar prioritizes autonomy and
+     privacy, offering an ethical alternative to the surveillance oriented
+     American digital ecosystem.
+
+By* challenges the existing proprietary American digital ecosystem while
+operating concurrently alongside it. By* is about redecentralization of internet
+application services.
+
+Some might dismiss ByStar as an ambitious, utopian vision. In response, I am
+putting my book on the table. Think of this book as an interdisciplinary
+blueprint.
+
+ Nature of Polyexistentials:
+ Basis for Abolishment of the Western Intellectual Property Rights Regime
+ And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+
+ Digital:: First US Edition – https://github.com/bxplpc/120033
+ Print:: First US Edition – ISBN: 978-1960957016 – Amazon: https://www.amazon.com/dp/1960957015
+
+Emacs, with its powerful display engine, elisp, and multi-lingual input method
+engines, along with its robust agent paradigm and extensibility, provides an
+ideal foundation for the usage environment of ByStar.
+
+I invite you to explore Blee and share your feedback.
+
+With respect and hope, I remain at your service,
+
+Mohsen Banan https://github.com/mohsenBanan
