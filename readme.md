@@ -140,7 +140,7 @@ outline in this book, makes it clear that Polyexistential American Capitalism is
 very vulnerable.
 
 Our ultimate goal for all of this has been to influence
-societal policies towards adoption of halaal manner of-existence of
+societal policies towards adoption of halaal manner-of-existence of
 polyexistentials. We recognize that adoption of such societal policies in
 America is likely not possible and their adoption in the West is likely very
 difficult. Therefore, we focus on Eastern societies in general and Iran and
