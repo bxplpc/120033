@@ -1,6 +1,6 @@
 #+TITLE: LLM/AI's Take on the Invalidity of Intellectual Property Based on the Nature of Polyexistentials
 
-December 1, 2024
+/December 1, 2024/
 
 *A debate between Mohsen BANAN and LLM/AI  Gemini Pro 1.5 about invalidity of intellectual property.*
 
@@ -12,10 +12,10 @@ stems from their investment in the IPR model, as illustrated by Upton Sinclair's
 observation: "It is difficult to get a man to understand something when his
 salary depends upon his not understanding it."
 
-Given that machines are not yet self-aware and lack self-interest, what would happen
-if we presented the concept of polyexistentials to Large Language Models of
-Artificial Intelligence (LLM/AI)? Could they follow the basic logic and arrive
-at unbiased conclusions?
+Given that machines are not yet self-aware and lack self-interest, what would
+happen if we presented the concept of polyexistentials to Large Language Models
+of Artificial Intelligence (LLM/AI)? Could they follow the straightforward logic
+of polyexsitentials and arrive at unbiased conclusions?
 
 After reading "You Exist In The Long Context" -- https://thelongcontext.com/, I
 decided to create a context for my book:
