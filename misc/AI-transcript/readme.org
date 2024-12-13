@@ -1,5 +1,9 @@
 #+TITLE: LLM/AI's Take on the Invalidity of Intellectual Property Based on the Nature of Polyexistentials
 
+December 1, 2024
+
+*A debate between Mohsen BANAN and LLM/AI  Gemini Pro 1.5 about invalidity of intellectual property.*
+
 The concept of polyexistentials naturally leads to the obvious conclusion that
 the Western Intellectual Property Rights (IPR) regime is fundamentally flawed.
 The logic inherent in the nature of polyexistentials is straightforward, yet
@@ -59,7 +63,7 @@ You can think of me as always being the latest version.
 Such a response, of course, is nonsensical.
 
 This is an interaction that occurred on Sunday December 1, 2024 in the
-interaction box of: \url{https://thelongcontext.com/}. The large language model
+interaction box of: https://thelongcontext.com/. The large language model
 used is that of Gemini Pro 1.5 whose training dates to Wednesday, November
 1, 2023.
 
@@ -542,7 +546,8 @@ just economic or historical arguments.
 
 #+BEGIN_SRC latex
 
-Mohsen: IPR does involve the same or more harm than slavery. The nature of the harm is different.
+Mohsen: IPR does involve the same or more harm than slavery.
+The nature of the harm is different.
 You are just not understanding the harm.
 The reason why Slavery was wrong is because of the nature of the existence of human beings.
 Similar to the nature of polyexistentials for IPR.
