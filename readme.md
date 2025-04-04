@@ -70,18 +70,18 @@ AVAILABLE FORMATS
 -   [Prints](./NOTYET):
     -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
 --->
--   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf) <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">8.5</a>: 
-    -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-02-3
--   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-02-3
--   [PDF](./covers/c-120033-1_05-cover-8.5x11-col-sft-loc.pdf):
-    -- 8.5x11 -- Soft Cover -- p3csl -- ISBN: 978-1-960957-02-3
--   [PDF](./pdf/c-120033-1_05-book-a4-col-emb-pub.pdf):
-    -- A4 -- Complete Book + Embeded Cover -- p4cel -- ISBN: 978-1-960957-03-0
--   [PDF](./pdf/c-120033-1_05-book-a4-col-sft-loc.pdf):
-    -- A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-03-0
--   [PDF](./covers/c-120033-1_05-cover-a4-col-sft-loc.pdf):
-    -- A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-03-0
+-   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf) ---  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-02-3
+-   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-sft-loc.pdf) ---  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-02-3
+-   [PDF](./covers/c-120033-1_05-cover-8.5x11-col-sft-loc.pdf) --- <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-cover-8.5x11-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    8.5x11 -- Soft Cover -- p3csl -- ISBN: 978-1-960957-02-3
+-   [PDF](./pdf/c-120033-1_05-book-a4-col-emb-pub.pdf) ---  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-a4-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    A4 -- Complete Book + Embeded Cover -- p4cel -- ISBN: 978-1-960957-03-0
+-   [PDF](./pdf/c-120033-1_05-book-a4-col-sft-loc.pdf) ---  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-a4-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>:
+    A4 -- Complete Book, No Cover Pages -- p4csl -- ISBN: 978-1-960957-03-0
+-   [PDF](./covers/c-120033-1_05-cover-a4-col-sft-loc.pdf) --- <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-cover-a4-col-sft-loc.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>: 
+    A4 -- Soft Cover -- p4csl -- ISBN: 978-1-960957-03-0
 
 -   [EPUB](./ebook/c-120033-1_05-eBook.epub):
     -- eBook -- h0csl -- ISBN: 978-1-960957-04-7
