@@ -70,7 +70,7 @@ AVAILABLE FORMATS
 -   [Prints](./NOTYET):
     -- IngramSpark -- 6x9, Black and White, Soft Cover -- p1bsi -- ISBN: 978-1-960957-00-9
 --->
--   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf):
+-   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf) <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">8.5</a>: 
     -- 8.5x11 -- Complete Book + Embeded Cover -- p3cel -- ISBN: 978-1-960957-02-3
 -   [PDF](./pdf/c-120033-1_05-book-8.5x11-col-sft-loc.pdf):
     -- 8.5x11 -- Complete Book, No Cover Pages -- p3csl -- ISBN: 978-1-960957-02-3
