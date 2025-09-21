@@ -19,7 +19,7 @@ Some standalone chapters and segments of the book are included in [[file:./segme
 
 * Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity
 
-    - [[file:./RamificationsOfIPonAI/README.org][Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity]]
+    - [[file:./RamificationsOfIPonAI-250618/README.org][Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity]]
 
 # Local Variables:
 # eval: (setq-local toc-org-max-depth 4)
