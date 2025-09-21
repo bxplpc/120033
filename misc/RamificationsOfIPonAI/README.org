@@ -3,6 +3,10 @@
 #+AUTHOR: Mohsen BANAN
 #+OPTIONS: toc:4
 
+Date: June 18, 20215\\
+Author: Mohsen BANAN
+
+
 In May 2025, the Director of the US Copyright Office, Shira Perlmutter, released
 a pre-publication report titled: “Copyright AND Artificial Intelligence,” which
 concluded that in some instances, the use of copyrighted works to train AI
@@ -39,6 +43,43 @@ fundamentally invalid. The internet and AI have simply made that clearer.
 The questions that we should be asking are: after abolishing IP law, what should
 replace it? How should Attribution-Based-Economy fit with AI? This perspective
 is elaborated in my book:
+
+
+------------------------------------------------------------------------
+
+#+html: <img align="right"  height="230" src="./images/frontCover-1.jpg">
+
+#+html: <p align="center"><font size="+3"><b>Nature of Polyexistentials:</font></b></p>
+
+#+html: <p align="center"><b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b></p>
+
+#+html: <p align="center"><b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b></p>
+
+
+#+html: <p align="left">US Edition On Line: &emsp; <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
+#+html:  --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf">8.5x11</a> --
+#+html:  <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-a4-col-emb-pub.pdf">A4</a> ---
+#+html:  Download:  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">8.5</a> --
+#+html:  <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-a4-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">A4</a>
+#+html: <br>
+#+HTML: Int Edition On Line: &emsp; <a href="https://github.com/bxplpc/120074">PLPC-120074 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003800">DOI </a>
+#+html:  --- PDF: <a href="https://github.com/bxplpc/120074/blob/main/pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf?raw=true">8.5x11</a> --
+#+html:   <a href="https://github.com/bxplpc/120074/blob/main/pdf/c-120074-1_05-book-a4-col-emb-pub.pdf">A4</a> ---
+#+HTML: Download:  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">8.5</a> --
+#+html:  <a href="https://raw.github.com/bxplpc/120074/main/pdf/c-120074-1_05-book-a4-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">A4</a>
+#+html: <br>
+#+HTML: US Edition Book Prints At Amazon: &emsp;  <a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
+#+html: &emsp;  (424 pages --- 6 x 9 in)
+#+html: <br>
+#+HTML: International Edition Book Prints: &emsp;  <a href="https://jangal.com/fa/product/252689/nature-of-polyexistentials">  Iran (Jangal Publishers) </a>
+#+html: &emsp; (406 pages --- 23.5 x 16.5 cm)
+#+html: </p>
+#+html: <p align="left">Comments, Feedback: &emsp;
+#+html: <a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</a>
+#+html: </p>
+
+------------------------------------------------------------------------
+
 
 ------------------------------------------------------------------------
 #+html: <img align="right" src="images/frontCover-1.jpg" height="230" />
