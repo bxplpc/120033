@@ -1,0 +1,21 @@
+#+title: Miscelinous Related Documents
+#+DATE: <2025-09-21 Sun>
+#+AUTHOR: Mohsen BANAN
+#+OPTIONS: toc:4
+
+
+* Overview
+
+Here we keep miscelinous documents related to the Polyexistentials book.
+
+* Table of Contents     :TOC:
+- [[#overview][Overview]]
+- [[#ramifications-of-ip-on-ai-nature-of-digitals-trumps-artificial-scarcity][Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity]]
+
+* Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity
+
+    - [[file:./RamificationsOfIPonAI/README.org][Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity]]
+
+# Local Variables:
+# eval: (setq-local toc-org-max-depth 4)
+# End:

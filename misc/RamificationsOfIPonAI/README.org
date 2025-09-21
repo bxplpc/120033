@@ -1,0 +1,81 @@
+#+title: Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity
+#+DATE: <2025-09-21 Sun>
+#+AUTHOR: Mohsen BANAN
+#+OPTIONS: toc:4
+
+In May 2025, the Director of the US Copyright Office, Shira Perlmutter, released
+a pre-publication report titled: “Copyright AND Artificial Intelligence,” which
+concluded that in some instances, the use of copyrighted works to train AI
+models would require the consent of rightsholders and a license. Shortly
+afterward, Trump fired her. She is now suing Trump.
+
+On April 12, 2025, Jack Dorsey tweeted: “Delete all IP law.” Shortly after that,
+Elon Musk chimed in with a simple “I agree.” What if they are right—not just
+politically, but conceptually?
+
+The clash between AI and Western IP law underscores IP’s inherent flaws.
+Describing the ramifications of IP in AI as merely “muddy” is a significant
+understatement. The 21st century’s most transformative technological
+revolution—artificial intelligence (AI)—has collided with one of the most
+fundamentally flawed regulatory constructs: Western Intellectual Property (IP)
+law.
+
+In the meantime, the nature of digitals is at work, with more and more AI-LLMs
+being trained and re-trained on what some consider restricted. The nature of
+digitals knows no borders, and Western IP is not universal. Any sovereign that
+impedes progress through IP obstacles will be bypassed. The nature of digitals
+trumps the artificial scarcity that IP tries to create. Human structures that
+conflict with nature are doomed.
+
+Current debates on adjusting copyright laws for AI are misguided; the focus
+should shift to replacing IP law and integrating an Attribution-Based Economy
+with digitals, the internet, and AI.
+
+Much of the debate today revolves around how we should adjust the copyright laws
+in the context of the new realities of AI. These are the wrong questions. Such
+debates are misguided. The Western IP regime is not merely flawed or unjust, but
+fundamentally invalid. The internet and AI have simply made that clearer.
+
+The questions that we should be asking are: after abolishing IP law, what should
+replace it? How should Attribution-Based-Economy fit with AI? This perspective
+is elaborated in my book:
+
+------------------------------------------------------------------------
+#+html: <img align="right" src="images/frontCover-1.jpg" height="230" />
+
+#+html: <p align="center"><font size="+4"><b>Nature of Polyexistentials:</font></b></p>
+#+html: <p align="center"><b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b></p>
+#+html: <p align="center"><b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b></p>
+
+#+html: <p> </p>
+#+html: <p align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a> --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf">8.5x11</a> -- <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-emb-pub.pdf">A4</a> </p>
+
+#+html: <p align="left">Order Book Prints At Amazon:<a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a> (424 pages --- 6 x 0.96 x 9 inches)</p>
+
+#+html: <p align="left">Comments, Feedback: <a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</a> </p>
+
+------------------------------------------------------------------------
+
+# Nature of Polyexistentials:
+# Basis for Abolishment of the Western Intellectual Property Rights Regime
+
+# Digital:: First US Edition — https://lnkd.in/giRxxycD
+# Download: https://lnkd.in/grErdEzT
+
+At the core of my book is a new concept and vocabulary:
+polyexistentials—entities that naturally exist in multiple places at once.
+Digitals are polyexistentials. Polyexistentials are natural public goods.
+
+Artificial Intelligence flourishes in environments that promote the free
+exchange and propagation of natural public goods.
+
+Conversely, AI struggles in settings where intellectual property laws impose
+artificial scarcity, restricting access to essential resources.
+
+Societies that persist in enforcing stringent intellectual property protections
+risk developing weaker and inferior digital ecosystems.
+
+
+# Local Variables:
+# eval: (setq-local toc-org-max-depth 4)
+# End:
