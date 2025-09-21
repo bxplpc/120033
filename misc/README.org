@@ -6,11 +6,16 @@
 
 * Overview
 
-Here we keep miscelinous documents related to the Polyexistentials book.
+Here we keep miscelinous documents and thoughts related to the Polyexistentials book.
 
 * Table of Contents     :TOC:
 - [[#overview][Overview]]
+- [[#standalone-segments-of-the-polyexsitentials-book][Standalone Segments of the Polyexsitentials Book]]
 - [[#ramifications-of-ip-on-ai-nature-of-digitals-trumps-artificial-scarcity][Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity]]
+
+* Standalone Segments of the Polyexsitentials Book
+
+Some standalone chapters and segments of the book are included in [[file:./segments]]
 
 * Ramifications of IP on AI: Nature of Digitals Trumps Artificial Scarcity
 
